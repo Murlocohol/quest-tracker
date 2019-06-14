@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 import sys
+import re
 
 # __What we care about__
 # Name
@@ -95,12 +96,18 @@ class Quest:
 		json_item_array = '"items" : [\n'
 		for item in self.items:
 			json_item_array = json_item_array + ('{"name" : "%s", "link" : "%s"},\n' % item)
-		json_item_array = json_item_array[:-2] + '],\n'
+		if len(self.items) > 0:
+			json_item_array = json_item_array[:-2] + '],\n'
+		else:
+			json_item_array = json_item_array[:-1] + '],\n'
 
 		json_rep_array = '"reputations" : [\n'
 		for rep in self.reputations:
 			json_rep_array = json_rep_array + ('{"amount" : "%s", "faction" : "%s"},\n' % rep)
-		json_rep_array = json_rep_array[:-2] + ']\n'
+		if len(self.reputations) > 0:
+			json_rep_array = json_rep_array[:-2] + ']\n'
+		else:
+			json_rep_array = json_rep_array[:-1] + ']\n'
 
 		return "{" + json_name + json_link + json_faction + json_level + json_required_level + json_item_array + json_rep_array + "}"
 
@@ -113,8 +120,11 @@ def decode_quest(link):
 	link 		= link
 	faction 	= html.split('Side: ')[1].split('</div>')[0]
 	# zone		= html.split('Eastern Kingdoms')[1].split('</div>')[0]
-	level 		= int(html.split('Level: ')[1].split('</font>')[0])
-	req_level 	= int(html.split('Requires level: ')[1].split('</div>')[0])
+	# level 		= int(html.split('Level: ')[1].split('</font>')[0])
+	# req_level 	= int(html.split('Requires level: ')[1].split('</div>')[0])
+
+	level 		= int(re.search(r'([\d])\w+', html.split('Level: ')[1]).group(0))
+	req_level 	= int(re.search(r'([\d])\w+', html.split('Requires level: ')[1]).group(0))
 
 	reward_str = None
 	gains_str = None
@@ -129,15 +139,15 @@ def decode_quest(link):
 
 	q = Quest(name, link, faction, req_level, level, reward_str, gains_str)
 	#q.print_details()
-	print(q.to_json())
+	#print(q.to_json())
 
 	# print(q.reward_str)
 	# print(q.gains_str)
 
-	return
+	return q.to_json()
 
 if __name__ == '__main__':
-	HTML = 'https://classicdb.ch/?quest=417'
+	HTML = 'https://classicdb.ch/?quest=448'
 	decode_quest(HTML)
 	
 	print('Program ran')

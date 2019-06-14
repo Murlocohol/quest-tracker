@@ -1,0 +1,61 @@
+{"2" : {"name" : "Sharptalon&#039;s Claw",
+"link" : "https://classicdb.ch/?quest=2",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 20,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"5" : {"name" : "Jitters&#039; Growling Gut",
+"link" : "https://classicdb.ch/?quest=5",
+"faction" : "Alliance",
+"level" : 20,
+"required_level" : 17,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Stormwind"}]
+},
+"6" : {"name" : "Bounty on Garrick Padfoot",
+"link" : "https://classicdb.ch/?quest=6",
+"faction" : "Alliance",
+"level" : 823,
+"required_level" : 823,
+"items" : [
+{"name" : "Tapered Pants", "link" : "https://classicdb.ch/?item=6076"},
+{"name" : "Layered Tunic", "link" : "https://classicdb.ch/?item=60"},
+{"name" : "Ensign Cloak", "link" : "https://classicdb.ch/?item=3070"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Stormwind"}]
+},
+"7" : {"name" : "Kobold Camp Cleanup",
+"link" : "https://classicdb.ch/?quest=7",
+"faction" : "Alliance",
+"level" : 197,
+"required_level" : 197,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"8" : {"name" : "A Rogue&#039;s Deal",
+"link" : "https://classicdb.ch/?quest=8",
+"faction" : "Both",
+"level" : 6784,
+"required_level" : 6784,
+"items" : [
+{"name" : "Forest Mushroom Cap", "link" : "https://classicdb.ch/?item=4604"},
+{"name" : "Refreshing Spring Water", "link" : "https://classicdb.ch/?item=159"}],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"9" : {"name" : "The Killing Fields",
+"link" : "https://classicdb.ch/?quest=9",
+"faction" : "Alliance",
+"level" : 15,
+"required_level" : 233,
+"items" : [
+{"name" : "Harvester's Pants", "link" : "https://classicdb.ch/?item=3578"},
+{"name" : "Harvester's Robe", "link" : "https://classicdb.ch/?item=1561"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+}}
