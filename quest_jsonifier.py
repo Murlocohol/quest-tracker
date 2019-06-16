@@ -29,8 +29,6 @@ def main(txt_name='valid_quest_list 0-10.txt'):
 
 	for link in valid_links:
 		quest_id = int(link.split('https://classicdb.ch/?quest=')[1][:-1])
-		
-		print(str(time.time() - TIME_START))
 
 		time_elap = str(time.time() - TIME_START).split('.')
 		time_elap = time_elap[0] + '.' + time_elap[1][:3]

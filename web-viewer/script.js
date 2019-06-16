@@ -46,10 +46,6 @@ function calc_faction_exp(data){
 		quest_exp = q['experience'];
 		faction = q['faction'];
 
-		if(faction.includes('http://classicdb.ch/?object=176143')){
-			console.log(q);
-		}
-
 		if (!faction_names.includes(faction)){
 			faction_names.push(faction);
 			faction_obj = {'name' : faction, 'total_exp': 0};
@@ -61,6 +57,36 @@ function calc_faction_exp(data){
 	})
 
 	return factions;
+
+}
+
+function prune_data(data_set){
+
+	let new_set = []
+
+	data_set.forEach(function(point){
+
+		data = point['data']
+
+		// Remove race quests
+		if(!data['faction'].includes('Alliance') && 
+			!data['faction'].includes('Horde') && 
+			!data['faction'].includes('Both')){
+			// console.log("Pruned: " + data['name'] + ' ' + data['link']);
+			return;
+		}
+
+		// Remove donation quests
+		if (data['name'].toLowerCase().includes('donation')){
+			//console.log("Pruned: " + data['name'] + ' ' + data['link']);
+			return;
+		}
+
+		new_set.push(point);
+
+	})
+
+	return new_set;
 
 }
 
@@ -93,19 +119,25 @@ function order_by(data_set, field, order='ascend'){
 
 	// Default: ascending order
 	return data_set.sort( compare_asc );
- 
-
-	
-
 }
 
 function init(){
 
 	const d = quest_data['data'];
+	let results = '';
+
+	console.log(d);
+
+	// prune data: donation quests, race quests, class quests
+	clean_data = prune_data(d);
+
+	console.log(clean_data);
 
 	console.log('Faction Rep');
-	console.log(order_by(calculate_rep(d), 'total_rep', 'descend'));
+	results = order_by(calculate_rep(clean_data), 'total_rep', 'descend')
+	console.log(results);
 
 	console.log('Faction Exp');
-	console.log(order_by(calc_faction_exp(d), 'name'));
+	results = order_by(calc_faction_exp(clean_data), 'name')
+	console.log(results);
 }

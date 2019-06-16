@@ -1,0 +1,88 @@
+{ "data" : [
+{"id" : 2,
+"data" : {"name" : "Sharptalon's Claw",
+"link" : "https://classicdb.ch/?quest=2",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 20,
+"experience" : 250,
+"start_npc" : {"name" : "Sharptalon's Claw", "link" : "https://classicdb.ch/?item=16305"},
+"end_npc" : {"name" : "Senani Thunderheart", "link" : "https://classicdb.ch/?npc=12696"},
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}
+]}
+},{"id" : 5,
+"data" : {"name" : "Jitters' Growling Gut",
+"link" : "https://classicdb.ch/?quest=5",
+"faction" : "Alliance",
+"level" : 20,
+"required_level" : 17,
+"experience" : 40,
+"start_npc" : {"name" : "Jitters", "link" : "https://classicdb.ch/?npc=288"},
+"end_npc" : {"name" : "Chef Grual", "link" : "https://classicdb.ch/?npc=272"},
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Stormwind"}
+]}
+},{"id" : 6,
+"data" : {"name" : "Bounty on Garrick Padfoot",
+"link" : "https://classicdb.ch/?quest=6",
+"faction" : "Alliance",
+"level" : 5,
+"required_level" : 3,
+"experience" : 350,
+"start_npc" : {"name" : "Deputy Willem", "link" : "https://classicdb.ch/?npc=823"},
+"end_npc" : {"name" : "Deputy Willem", "link" : "https://classicdb.ch/?npc=823"},
+"items" : [
+{"name" : "Tapered Pants", "link" : "https://classicdb.ch/?item=6076"},
+{"name" : "Layered Tunic", "link" : "https://classicdb.ch/?item=60"},
+{"name" : "Ensign Cloak", "link" : "https://classicdb.ch/?item=3070"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Stormwind"}
+]}
+},{"id" : 7,
+"data" : {"name" : "Kobold Camp Cleanup",
+"link" : "https://classicdb.ch/?quest=7",
+"faction" : "Alliance",
+"level" : 2,
+"required_level" : 1,
+"experience" : 150,
+"start_npc" : {"name" : "Marshal McBride", "link" : "https://classicdb.ch/?npc=197"},
+"end_npc" : {"name" : "Marshal McBride", "link" : "https://classicdb.ch/?npc=197"},
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}
+]}
+},{"id" : 8,
+"data" : {"name" : "A Rogue's Deal",
+"link" : "https://classicdb.ch/?quest=8",
+"faction" : "Both",
+"level" : 5,
+"required_level" : 5,
+"experience" : 100,
+"start_npc" : {"name" : "Calvin Montague", "link" : "https://classicdb.ch/?npc=6784"},
+"end_npc" : {"name" : "Innkeeper Renee", "link" : "https://classicdb.ch/?npc=5688"},
+"items" : [
+{"name" : "Forest Mushroom Cap", "link" : "https://classicdb.ch/?item=4604"},
+{"name" : "Refreshing Spring Water", "link" : "https://classicdb.ch/?item=159"}],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}
+]}
+},{"id" : 9,
+"data" : {"name" : "The Killing Fields",
+"link" : "https://classicdb.ch/?quest=9",
+"faction" : "Alliance",
+"level" : 15,
+"required_level" : 8,
+"experience" : 110,
+"start_npc" : {"name" : "Farmer Saldean", "link" : "https://classicdb.ch/?npc=233"},
+"end_npc" : {"name" : "Farmer Saldean", "link" : "https://classicdb.ch/?npc=233"},
+"items" : [
+{"name" : "Harvester's Pants", "link" : "https://classicdb.ch/?item=3578"},
+{"name" : "Harvester's Robe", "link" : "https://classicdb.ch/?item=1561"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}
+]}
+}
+]}

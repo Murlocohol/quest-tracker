@@ -5,26 +5,40 @@ import sys
 import re
 
 class Quest:
-	def __init__(self, Name, Link, Faction, Req_Level, Level, Reward_Str, Gains_Str):
+	def __init__(self, Name, Link, Faction, Req_Level, Level, Reward_Str, Gains_Str, Start_NPC_Str, End_NPC_Str):
 		self.name = Name.replace("&#039;", "'")
 		self.link = Link
 		self.faction = BeautifulSoup(Faction, 'html.parser').string
 		self.req_level = Req_Level
 		self.level = Level
-		self.reward_str = Reward_Str
-		self.gains_str = Gains_Str
+
 
 		# Init rewards
-		self.items = []
+		self.items = []	# (name, link)
 
 		# Init gains
 		self.experience = 0
-		self.reputations = []
+		self.reputations = []	# (name, amount)
+
+		# Init quest NPCs
+		self.start_npc = ()	# (name, link)
+		self.end_npc = ()	# (name, link)
 		
+		# TODO: Eliminate useless aditional data
+		self.reward_str = Reward_Str
+		self.gains_str = Gains_Str
+		self.start_npc_str = Start_NPC_Str
+		self.end_npc_str = End_NPC_Str
+
 		if self.reward_str is not None:
 			self.decode_rewards()
 		if self.gains_str is not None:
 			self.decode_gains()
+
+		if self.start_npc_str is not None:
+			self.decode_quest_giver()
+		if self.end_npc_str is not None:
+			self.decode_quest_turn_in()
 
 	# TODO: Make formating prettier and reduce BeautifulSoup usage
 	def decode_rewards(self):
@@ -72,6 +86,29 @@ class Quest:
 		# print("Gains decoded")
 		return 0
 
+# 	Start NPC:
+#                                 <a href="?npc=10926"
+#                                                                                         >Pamela Redpath
+# End NPC: <a href="?npc=10926">Pamela Redpath
+
+	def decode_quest_giver(self):
+		npc_name = self.start_npc_str.split('>')[1]
+		npc_link = 'https://classicdb.ch/' + self.start_npc_str.split('href="')[1].split('"')[0]
+
+		self.start_npc = (npc_name, npc_link)
+
+		return 0
+
+
+
+	def decode_quest_turn_in(self):
+		npc_name = self.end_npc_str.split('>')[1]
+		npc_link = 'https://classicdb.ch/' + self.end_npc_str.split('href="')[1].split('">')[0]
+
+		self.end_npc = (npc_name, npc_link)
+
+		return 0
+
 	def print_details(self):
 		print("\nName: %s | Link: %s" % (self.name, self.link))
 		print("Level: %d | Required Level: %d" % (self.level, self.req_level))
@@ -94,6 +131,14 @@ class Quest:
 		json_required_level 	= '"required_level" : %d,\n' % (self.req_level)
 		json_experience			= '"experience" : %d,\n' % (self.experience)
 		
+		json_start_npc			=	'"start_npc" : [],\n'
+		json_end_npc			=	'"end_npc" : [],\n'
+
+		if self.start_npc is not None:
+			json_start_npc			=	'"start_npc" : {"name" : "%s", "link" : "%s"},\n' % self.start_npc
+		if self.end_npc is not None:
+			json_end_npc			=	'"end_npc" : {"name" : "%s", "link" : "%s"},\n' % self.end_npc
+
 		json_item_array = '"items" : [\n'
 		for item in self.items:
 			json_item_array = json_item_array + ('{"name" : "%s", "link" : "%s"},\n' % item)
@@ -110,7 +155,7 @@ class Quest:
 		else:
 			json_rep_array = json_rep_array[:-1] + '\n]'
 
-		return "{" + json_name + json_link + json_faction + json_level + json_required_level + json_experience + json_item_array + json_rep_array + "}"
+		return "{" + json_name + json_link + json_faction + json_level + json_required_level + json_experience + json_start_npc + json_end_npc + json_item_array + json_rep_array + "}"
 
 
 def grab_until_no_num(str):
@@ -124,26 +169,46 @@ def grab_until_no_num(str):
 
 	return int(number)
 
+def examine_html(raw_html):
+	f = open('the_html.html', 'w', encoding='utf-8')
+	f.write(raw_html)
+	f.close()
+
+	return 0
 
 def decode_quest(link):
+	# print(link)
 	html = requests.get(link).text
-	html = html.split('class="infobox"')[1]
+	# examine_html(html)
+	html = html.split('<table class="infobox">')[1]
 
-	name 		= html.split('<h1>')[1].split(' -')[0]
+	name 		= html.split('<h1>')[1].split('</h1>')[0]
 	link 		= link
 	faction 	= html.split('Side: ')[1].split('</div>')[0]
 	level 		= -1
 	req_level 	= -1
 	reward_str = None
 	gains_str = None
+	start_npc_str = None
+	end_npc_str = None
 	
 	try:
-		level 	= grab_until_no_num( html.split('class="infobox"')[1].split('Level: ')[1] )
+		level 	= grab_until_no_num( html.split('Level: ')[1] )
 	except:
 		pass
 
 	try:
-		req_level 	= grab_until_no_num( html.split('class="infobox"')[1].split('Requires level: ')[1] )
+		req_level 	= grab_until_no_num( html.split('Requires level: ')[1] )
+	except:
+		pass
+
+	try:
+		start_npc_str 	= html.split('Start: ')[1].split('</a>')[0]
+	except:
+		pass
+
+	try:
+		end_npc_str 	= html.split('End: ')[1].split('</a>')[0]
 	except:
 		pass
 
@@ -172,7 +237,9 @@ def decode_quest(link):
 	elif receive_reward_str:
 		reward_str = receive_reward_str
 
-	return Quest(name, link, faction, req_level, level, reward_str, gains_str).to_json()
+	quest = Quest(name, link, faction, req_level, level, reward_str, gains_str, start_npc_str, end_npc_str)
+
+	return quest.to_json()
 
 if __name__ == '__main__':
 	quest_id = 0
@@ -180,7 +247,7 @@ if __name__ == '__main__':
 
 	if(len(sys.argv) > 1):
 		if(sys.argv[1] and isinstance(int(sys.argv[1]), int)):
-			START = int(sys.argv[1])
+			quest_id = int(sys.argv[1])
 
 	test_html = 'https://classicdb.ch/?quest=' + str(quest_id)
 	
