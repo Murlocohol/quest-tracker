@@ -1,21 +1,21 @@
 { "data" : [
 {"id" : 2,
-"data" : {"name" : "Sharptalon's Claw",
+"data" : {"name" : "Sharptalon&#039;s Claw",
 "link" : "https://classicdb.ch/?quest=2",
 "faction" : "Horde",
-"level" : 30,
-"required_level" : 20,
+"level" : 3,
+"required_level" : 2,
 "experience" : 250,
 "items" : [],
 "reputations" : [
 {"amount" : "250", "faction" : "Thunder Bluff"}
 ]}
 },{"id" : 5,
-"data" : {"name" : "Jitters' Growling Gut",
+"data" : {"name" : "Jitters&#039; Growling Gut",
 "link" : "https://classicdb.ch/?quest=5",
 "faction" : "Alliance",
-"level" : 20,
-"required_level" : 17,
+"level" : 2,
+"required_level" : 1,
 "experience" : 40,
 "items" : [],
 "reputations" : [
@@ -47,7 +47,7 @@
 {"amount" : "250", "faction" : "Stormwind"}
 ]}
 },{"id" : 8,
-"data" : {"name" : "A Rogue's Deal",
+"data" : {"name" : "A Rogue&#039;s Deal",
 "link" : "https://classicdb.ch/?quest=8",
 "faction" : "Both",
 "level" : 5,
@@ -63,7 +63,7 @@
 "data" : {"name" : "The Killing Fields",
 "link" : "https://classicdb.ch/?quest=9",
 "faction" : "Alliance",
-"level" : 15,
+"level" : 1,
 "required_level" : 8,
 "experience" : 110,
 "items" : [

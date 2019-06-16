@@ -1,0 +1,5639 @@
+{"400" : {"name" : "Tools for Steelgrill",
+"link" : "https://classicdb.ch/?quest=400",
+"faction" : "Alliance",
+"level" : 1872,
+"required_level" : 1872,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Gnomeregan Exiles"},
+{"amount" : "25", "faction" : "Ironforge"}]
+},
+"401" : {"name" : "Wait for Sirra to Finish",
+"link" : "https://classicdb.ch/?quest=401",
+"faction" : "Alliance",
+"level" : 30,
+"required_level" : 20,
+"items" : [],
+"reputations" : []
+},
+"403" : {"name" : "Guarded Thunderbrew Barrel",
+"link" : "https://classicdb.ch/?quest=403",
+"faction" : "Both",
+"level" : 269,
+"required_level" : 99,
+"items" : [],
+"reputations" : []
+},
+"404" : {"name" : "A Putrid Task",
+"link" : "https://classicdb.ch/?quest=404",
+"faction" : "Both",
+"level" : 1496,
+"required_level" : 1496,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"405" : {"name" : "The Prodigal Lich",
+"link" : "https://classicdb.ch/?quest=405",
+"faction" : "Both",
+"level" : 1499,
+"required_level" : 1499,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"407" : {"name" : "Fields of Grief",
+"link" : "https://classicdb.ch/?quest=407",
+"faction" : "Both",
+"level" : 1518,
+"required_level" : 1518,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"408" : {"name" : "The Family Crypt",
+"link" : "https://classicdb.ch/?quest=408",
+"faction" : "Both",
+"level" : 13,
+"required_level" : 1499,
+"items" : [
+{"name" : "Darkwood Staff", "link" : "https://classicdb.ch/?item=3446"},
+{"name" : "Bonecracker", "link" : "https://classicdb.ch/?item=3440"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"409" : {"name" : "Proving Allegiance",
+"link" : "https://classicdb.ch/?quest=409",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 1497,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"410" : {"name" : "The Dormant Shade",
+"link" : "https://classicdb.ch/?quest=410",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 1557,
+"items" : [],
+"reputations" : []
+},
+"411" : {"name" : "The Prodigal Lich Returns",
+"link" : "https://classicdb.ch/?quest=411",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 1497,
+"items" : [
+{"name" : "Bone Buckler", "link" : "https://classicdb.ch/?item=5940"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"412" : {"name" : "Operation Recombobulation",
+"link" : "https://classicdb.ch/?quest=412",
+"faction" : "Alliance",
+"level" : 10,
+"required_level" : 1269,
+"items" : [
+{"name" : "Driving Gloves", "link" : "https://classicdb.ch/?item=3152"},
+{"name" : "Oil-stained Cloak", "link" : "https://classicdb.ch/?item=3153"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Gnomeregan Exiles"},
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"413" : {"name" : "Shimmer Stout",
+"link" : "https://classicdb.ch/?quest=413",
+"faction" : "Alliance",
+"level" : 10,
+"required_level" : 1374,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Gnomeregan Exiles"},
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"414" : {"name" : "Stout to Kadrell",
+"link" : "https://classicdb.ch/?quest=414",
+"faction" : "Alliance",
+"level" : 10,
+"required_level" : 1959,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Gnomeregan Exiles"},
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"415" : {"name" : "Rejold&#039;s New Brew",
+"link" : "https://classicdb.ch/?quest=415",
+"faction" : "Alliance",
+"level" : 10,
+"required_level" : 1872,
+"items" : [
+{"name" : "Mug of Shimmer Stout", "link" : "https://classicdb.ch/?item=3087"}],
+"reputations" : [
+{"amount" : "10", "faction" : "Gnomeregan Exiles"},
+{"amount" : "10", "faction" : "Ironforge"}]
+},
+"416" : {"name" : "Rat Catching",
+"link" : "https://classicdb.ch/?quest=416",
+"faction" : "Alliance",
+"level" : 11,
+"required_level" : 10,
+"items" : [
+{"name" : "Burnt Hide Bracers", "link" : "https://classicdb.ch/?item=3158"},
+{"name" : "Cavalier's Boots", "link" : "https://classicdb.ch/?item=860"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"417" : {"name" : "A Pilot&#039;s Revenge",
+"link" : "https://classicdb.ch/?quest=417",
+"faction" : "Alliance",
+"level" : 11,
+"required_level" : 2059,
+"items" : [
+{"name" : "Craftsman's Dagger", "link" : "https://classicdb.ch/?item=2218"},
+{"name" : "Compact Hammer", "link" : "https://classicdb.ch/?item=1009"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Gnomeregan Exiles"},
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"418" : {"name" : "Thelsamar Blood Sausages",
+"link" : "https://classicdb.ch/?quest=418",
+"faction" : "Alliance",
+"level" : 11,
+"required_level" : 1963,
+"items" : [
+{"name" : "Blood Sausage", "link" : "https://classicdb.ch/?item=3220"},
+{"name" : "Recipe: Blood Sausage", "link" : "https://classicdb.ch/?item=3679"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"419" : {"name" : "The Lost Pilot",
+"link" : "https://classicdb.ch/?quest=419",
+"faction" : "Alliance",
+"level" : 10,
+"required_level" : 1960,
+"items" : [
+{"name" : "Siege Brigade Vest", "link" : "https://classicdb.ch/?item=3151"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Gnomeregan Exiles"},
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"420" : {"name" : "Senir&#039;s Observations",
+"link" : "https://classicdb.ch/?quest=420",
+"faction" : "Alliance",
+"level" : 1965,
+"required_level" : 1965,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Gnomeregan Exiles"},
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"421" : {"name" : "Prove Your Worth",
+"link" : "https://classicdb.ch/?quest=421",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 1938,
+"items" : [
+{"name" : "Arcane Intellect", "link" : "https://classicdb.ch/?spell=1460"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"422" : {"name" : "Arugal&#039;s Folly",
+"link" : "https://classicdb.ch/?quest=422",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 11,
+"items" : [
+{"name" : "Arcane Intellect", "link" : "https://classicdb.ch/?spell=1460"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"423" : {"name" : "Arugal&#039;s Folly",
+"link" : "https://classicdb.ch/?quest=423",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 11,
+"items" : [
+{"name" : "Arcane Intellect", "link" : "https://classicdb.ch/?spell=1460"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"424" : {"name" : "Arugal&#039;s Folly",
+"link" : "https://classicdb.ch/?quest=424",
+"faction" : "Both",
+"level" : 15,
+"required_level" : 13,
+"items" : [
+{"name" : "Arcane Intellect", "link" : "https://classicdb.ch/?spell=1460"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"425" : {"name" : "Ivar the Foul",
+"link" : "https://classicdb.ch/?quest=425",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 11,
+"items" : [
+{"name" : "Quilted Bracers", "link" : "https://classicdb.ch/?item=3453"},
+{"name" : "Weathered Belt", "link" : "https://classicdb.ch/?item=3583"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"426" : {"name" : "The Mills Overrun",
+"link" : "https://classicdb.ch/?quest=426",
+"faction" : "Both",
+"level" : 1496,
+"required_level" : 1496,
+"items" : [
+{"name" : "Cryptwalker Boots", "link" : "https://classicdb.ch/?item=3447"},
+{"name" : "Sturdy Cloth Trousers", "link" : "https://classicdb.ch/?item=3834"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"427" : {"name" : "At War With The Scarlet Crusade",
+"link" : "https://classicdb.ch/?quest=427",
+"faction" : "Both",
+"level" : 1515,
+"required_level" : 1515,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"428" : {"name" : "Lost Deathstalkers",
+"link" : "https://classicdb.ch/?quest=428",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"429" : {"name" : "Wild Hearts",
+"link" : "https://classicdb.ch/?quest=429",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 11,
+"items" : [
+{"name" : "Recipe: Discolored Healing Potion", "link" : "https://classicdb.ch/?item=4597"},
+{"name" : "Discolored Healing Potion", "link" : "https://classicdb.ch/?item=4596"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"430" : {"name" : "Return to Quinn",
+"link" : "https://classicdb.ch/?quest=430",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"431" : {"name" : "Candles of Beckoning",
+"link" : "https://classicdb.ch/?quest=431",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 10,
+"items" : [
+{"name" : "Candle of Beckoning", "link" : "https://classicdb.ch/?item=3080"}],
+"reputations" : []
+},
+"432" : {"name" : "Those Blasted Troggs!",
+"link" : "https://classicdb.ch/?quest=432",
+"faction" : "Alliance",
+"level" : 1254,
+"required_level" : 1254,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Gnomeregan Exiles"},
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"433" : {"name" : "The Public Servant",
+"link" : "https://classicdb.ch/?quest=433",
+"faction" : "Alliance",
+"level" : 11,
+"required_level" : 1977,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Gnomeregan Exiles"},
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"434" : {"name" : "The Attack!",
+"link" : "https://classicdb.ch/?quest=434",
+"faction" : "Alliance",
+"level" : 31,
+"required_level" : 16,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Stormwind"}]
+},
+"435" : {"name" : "Escorting Erland",
+"link" : "https://classicdb.ch/?quest=435",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 11,
+"items" : [
+{"name" : "Deathstalker Shortsword", "link" : "https://classicdb.ch/?item=3455"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"436" : {"name" : "Ironband&#039;s Excavation",
+"link" : "https://classicdb.ch/?quest=436",
+"faction" : "Alliance",
+"level" : 18,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Ironforge"}]
+},
+"437" : {"name" : "The Dead Fields",
+"link" : "https://classicdb.ch/?quest=437",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 11,
+"items" : [
+{"name" : "Reconnaissance Boots", "link" : "https://classicdb.ch/?item=3454"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"438" : {"name" : "The Decrepit Ferry",
+"link" : "https://classicdb.ch/?quest=438",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"439" : {"name" : "Rot Hide Clues",
+"link" : "https://classicdb.ch/?quest=439",
+"faction" : "Horde",
+"level" : 16,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"440" : {"name" : "The Engraved Ring",
+"link" : "https://classicdb.ch/?quest=440",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"441" : {"name" : "Raleigh and the Undercity",
+"link" : "https://classicdb.ch/?quest=441",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"442" : {"name" : "Assault on Fenris Isle",
+"link" : "https://classicdb.ch/?quest=442",
+"faction" : "Both",
+"level" : 24,
+"required_level" : 14,
+"items" : [
+{"name" : "High Robe of the Adjudicator", "link" : "https://classicdb.ch/?item=3461"},
+{"name" : "Talonstrike", "link" : "https://classicdb.ch/?item=3462"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"443" : {"name" : "Rot Hide Ichor",
+"link" : "https://classicdb.ch/?quest=443",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"444" : {"name" : "Rot Hide Origins",
+"link" : "https://classicdb.ch/?quest=444",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"445" : {"name" : "Delivery to Silverpine Forest",
+"link" : "https://classicdb.ch/?quest=445",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 1518,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"446" : {"name" : "Thule Ravenclaw",
+"link" : "https://classicdb.ch/?quest=446",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 10,
+"items" : [
+{"name" : "Bethor's Potion", "link" : "https://classicdb.ch/?item=3251"}],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"447" : {"name" : "A Recipe For Death",
+"link" : "https://classicdb.ch/?quest=447",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 11,
+"items" : [
+{"name" : "Senggin Root", "link" : "https://classicdb.ch/?item=3448"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"448" : {"name" : "Report to Hadrec",
+"link" : "https://classicdb.ch/?quest=448",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 14,
+"items" : [
+{"name" : "Coarse Weightstone", "link" : "https://classicdb.ch/?item=3240"},
+{"name" : "Coarse Sharpening Stone", "link" : "https://classicdb.ch/?item=2863"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"449" : {"name" : "The Deathstalkers&#039; Report",
+"link" : "https://classicdb.ch/?quest=449",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"450" : {"name" : "A Recipe For Death",
+"link" : "https://classicdb.ch/?quest=450",
+"faction" : "Both",
+"level" : 15,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"451" : {"name" : "A Recipe For Death",
+"link" : "https://classicdb.ch/?quest=451",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 14,
+"items" : [
+{"name" : "Nightglow Concoction", "link" : "https://classicdb.ch/?item=3451"},
+{"name" : "Acidproof Cloak", "link" : "https://classicdb.ch/?item=3582"}],
+"reputations" : [
+{"amount" : "500", "faction" : "Undercity"}]
+},
+"452" : {"name" : "Pyrewood Ambush",
+"link" : "https://classicdb.ch/?quest=452",
+"faction" : "Both",
+"level" : 15,
+"required_level" : 14,
+"items" : [
+{"name" : "Faerleia's Shield", "link" : "https://classicdb.ch/?item=3450"},
+{"name" : "Stretched Leather Trousers", "link" : "https://classicdb.ch/?item=2818"},
+{"name" : "Mystic Shawl", "link" : "https://classicdb.ch/?item=3449"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"453" : {"name" : "Finding the Shadowy Figure",
+"link" : "https://classicdb.ch/?quest=453",
+"faction" : "Alliance",
+"level" : 25,
+"required_level" : 22,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"454" : {"name" : "After the Ambush",
+"link" : "https://classicdb.ch/?quest=454",
+"faction" : "Alliance",
+"level" : 15,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Ironforge"}]
+},
+"455" : {"name" : "The Algaz Gauntlet",
+"link" : "https://classicdb.ch/?quest=455",
+"faction" : "Alliance",
+"level" : 21,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"},
+{"amount" : "75", "faction" : "Gnomeregan Exiles"},
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"456" : {"name" : "The Balance of Nature",
+"link" : "https://classicdb.ch/?quest=456",
+"faction" : "Both",
+"level" : 2079,
+"required_level" : 2079,
+"items" : [
+{"name" : "Archery Training Gloves", "link" : "https://classicdb.ch/?item=5394"},
+{"name" : "Stemleaf Bracers", "link" : "https://classicdb.ch/?item=11187"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"457" : {"name" : "The Balance of Nature",
+"link" : "https://classicdb.ch/?quest=457",
+"faction" : "Both",
+"level" : 2079,
+"required_level" : 2079,
+"items" : [
+{"name" : "Draped Cloak", "link" : "https://classicdb.ch/?item=5405"},
+{"name" : "Blackened Leather Belt", "link" : "https://classicdb.ch/?item=6058"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"458" : {"name" : "The Woodland Protector",
+"link" : "https://classicdb.ch/?quest=458",
+"faction" : "Both",
+"level" : 2077,
+"required_level" : 2077,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"459" : {"name" : "The Woodland Protector",
+"link" : "https://classicdb.ch/?quest=459",
+"faction" : "Both",
+"level" : 1992,
+"required_level" : 1992,
+"items" : [
+{"name" : "Canopy Leggings", "link" : "https://classicdb.ch/?item=5398"},
+{"name" : "Tracking Boots", "link" : "https://classicdb.ch/?item=5399"},
+{"name" : "Viny Gloves", "link" : "https://classicdb.ch/?item=11190"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"460" : {"name" : "Resting in Pieces",
+"link" : "https://classicdb.ch/?quest=460",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"461" : {"name" : "The Hidden Niche",
+"link" : "https://classicdb.ch/?quest=461",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"463" : {"name" : "The Greenwarden",
+"link" : "https://classicdb.ch/?quest=463",
+"faction" : "Both",
+"level" : 21,
+"required_level" : 20,
+"items" : [],
+"reputations" : []
+},
+"464" : {"name" : "War Banners",
+"link" : "https://classicdb.ch/?quest=464",
+"faction" : "Both",
+"level" : 28,
+"required_level" : 23,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"465" : {"name" : "Nek&#039;rosh&#039;s Gambit",
+"link" : "https://classicdb.ch/?quest=465",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 25,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"466" : {"name" : "Search for Incendicite",
+"link" : "https://classicdb.ch/?quest=466",
+"faction" : "Alliance",
+"level" : 22,
+"required_level" : 20,
+"items" : [
+{"name" : "Beerstained Gloves", "link" : "https://classicdb.ch/?item=3565"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"467" : {"name" : "Stonegear&#039;s Search",
+"link" : "https://classicdb.ch/?quest=467",
+"faction" : "Alliance",
+"level" : 23,
+"required_level" : 20,
+"items" : [],
+"reputations" : []
+},
+"468" : {"name" : "Report to Mountaineer Rockgar",
+"link" : "https://classicdb.ch/?quest=468",
+"faction" : "Alliance",
+"level" : 21,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Ironforge"}]
+},
+"469" : {"name" : "Daily Delivery",
+"link" : "https://classicdb.ch/?quest=469",
+"faction" : "Both",
+"level" : 21,
+"required_level" : 18,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"470" : {"name" : "Digging Through the Ooze",
+"link" : "https://classicdb.ch/?quest=470",
+"faction" : "Both",
+"level" : 24,
+"required_level" : 19,
+"items" : [
+{"name" : "Ooze-covered Bag", "link" : "https://classicdb.ch/?item=3352"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Ironforge"}]
+},
+"471" : {"name" : "Apprentice&#039;s Duties",
+"link" : "https://classicdb.ch/?quest=471",
+"faction" : "Both",
+"level" : 26,
+"required_level" : 18,
+"items" : [
+{"name" : "Malleable Chain Leggings", "link" : "https://classicdb.ch/?item=2545"},
+{"name" : "Resilient Poncho", "link" : "https://classicdb.ch/?item=3561"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"472" : {"name" : "Fall of Dun Modr",
+"link" : "https://classicdb.ch/?quest=472",
+"faction" : "Both",
+"level" : 25,
+"required_level" : 25,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"473" : {"name" : "Report to Captain Stoutfist",
+"link" : "https://classicdb.ch/?quest=473",
+"faction" : "Both",
+"level" : 28,
+"required_level" : 23,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Ironforge"}]
+},
+"474" : {"name" : "Defeat Nek&#039;rosh",
+"link" : "https://classicdb.ch/?quest=474",
+"faction" : "Both",
+"level" : 32,
+"required_level" : 26,
+"items" : [
+{"name" : "Ancient War Sword", "link" : "https://classicdb.ch/?item=3209"},
+{"name" : "Barreling Reaper", "link" : "https://classicdb.ch/?item=6194"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"475" : {"name" : "A Troubling Breeze",
+"link" : "https://classicdb.ch/?quest=475",
+"faction" : "Alliance",
+"level" : 2078,
+"required_level" : 2078,
+"items" : [],
+"reputations" : [
+{"amount" : "50", "faction" : "Darnassus"}]
+},
+"476" : {"name" : "Gnarlpine Corruption",
+"link" : "https://classicdb.ch/?quest=476",
+"faction" : "Both",
+"level" : 2107,
+"required_level" : 2107,
+"items" : [],
+"reputations" : [
+{"amount" : "100", "faction" : "Darnassus"}]
+},
+"477" : {"name" : "Border Crossings",
+"link" : "https://classicdb.ch/?quest=477",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"478" : {"name" : "Maps and Runes",
+"link" : "https://classicdb.ch/?quest=478",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"479" : {"name" : "Ambermill Investigations",
+"link" : "https://classicdb.ch/?quest=479",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"480" : {"name" : "The Weaver",
+"link" : "https://classicdb.ch/?quest=480",
+"faction" : "Both",
+"level" : 22,
+"required_level" : 14,
+"items" : [
+{"name" : "Ceranium Rod", "link" : "https://classicdb.ch/?item=3452"},
+{"name" : "Camouflaged Tunic", "link" : "https://classicdb.ch/?item=3585"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"481" : {"name" : "Dalar&#039;s Analysis",
+"link" : "https://classicdb.ch/?quest=481",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Undercity"}]
+},
+"482" : {"name" : "Dalaran&#039;s Intentions",
+"link" : "https://classicdb.ch/?quest=482",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Undercity"}]
+},
+"483" : {"name" : "The Relics of Wakening",
+"link" : "https://classicdb.ch/?quest=483",
+"faction" : "Both",
+"level" : 2078,
+"required_level" : 2078,
+"items" : [
+{"name" : "Barkmail Leggings", "link" : "https://classicdb.ch/?item=9599"},
+{"name" : "Gritroot Staff", "link" : "https://classicdb.ch/?item=9603"}],
+"reputations" : [
+{"amount" : "100", "faction" : "Darnassus"}]
+},
+"484" : {"name" : "Young Crocolisk Skins",
+"link" : "https://classicdb.ch/?quest=484",
+"faction" : "Both",
+"level" : 22,
+"required_level" : 18,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"485" : {"name" : "Find OOX-09/HL!",
+"link" : "https://classicdb.ch/?quest=485",
+"faction" : "Both",
+"level" : 48,
+"required_level" : 46,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"486" : {"name" : "Ursal the Mauler",
+"link" : "https://classicdb.ch/?quest=486",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 2078,
+"items" : [
+{"name" : "Defender Axe", "link" : "https://classicdb.ch/?item=5459"},
+{"name" : "Thornroot Club", "link" : "https://classicdb.ch/?item=5587"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"487" : {"name" : "The Road to Darnassus",
+"link" : "https://classicdb.ch/?quest=487",
+"faction" : "Both",
+"level" : 2151,
+"required_level" : 2151,
+"items" : [],
+"reputations" : [
+{"amount" : "100", "faction" : "Darnassus"}]
+},
+"488" : {"name" : "Zenn&#039;s Bidding",
+"link" : "https://classicdb.ch/?quest=488",
+"faction" : "Both",
+"level" : 2150,
+"required_level" : 2150,
+"items" : [
+{"name" : "Severed Voodoo Claw", "link" : "https://classicdb.ch/?item=5457"}],
+"reputations" : []
+},
+"489" : {"name" : "Seek Redemption!",
+"link" : "https://classicdb.ch/?quest=489",
+"faction" : "Both",
+"level" : 2083,
+"required_level" : 2083,
+"items" : [],
+"reputations" : [
+{"amount" : "500", "faction" : "Darnassus"}]
+},
+"491" : {"name" : "Wand to Bethor",
+"link" : "https://classicdb.ch/?quest=491",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 14,
+"items" : [
+{"name" : "Stamped Trousers", "link" : "https://classicdb.ch/?item=3457"},
+{"name" : "Rugged Mail Gloves", "link" : "https://classicdb.ch/?item=3458"},
+{"name" : "Serrated Knife", "link" : "https://classicdb.ch/?item=3581"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"492" : {"name" : "A New Plague",
+"link" : "https://classicdb.ch/?quest=492",
+"faction" : "Horde",
+"level" : 11,
+"required_level" : 1518,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"493" : {"name" : "Journey to Hillsbrad Foothills",
+"link" : "https://classicdb.ch/?quest=493",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"494" : {"name" : "Time To Strike",
+"link" : "https://classicdb.ch/?quest=494",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"495" : {"name" : "The Crown of Will",
+"link" : "https://classicdb.ch/?quest=495",
+"faction" : "Horde",
+"level" : 39,
+"required_level" : 34,
+"items" : [],
+"reputations" : []
+},
+"496" : {"name" : "Elixir of Suffering",
+"link" : "https://classicdb.ch/?quest=496",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Undercity"}]
+},
+"498" : {"name" : "The Rescue",
+"link" : "https://classicdb.ch/?quest=498",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 17,
+"items" : [
+{"name" : "Grunt Vest", "link" : "https://classicdb.ch/?item=3752"},
+{"name" : "Orcish War Chain", "link" : "https://classicdb.ch/?item=3733"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"},
+{"amount" : "150", "faction" : "Darkspear Trolls"},
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"499" : {"name" : "Elixir of Suffering",
+"link" : "https://classicdb.ch/?quest=499",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 22,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"500" : {"name" : "Crushridge Bounty",
+"link" : "https://classicdb.ch/?quest=500",
+"faction" : "Alliance",
+"level" : 36,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"501" : {"name" : "Elixir of Pain",
+"link" : "https://classicdb.ch/?quest=501",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 21,
+"items" : [
+{"name" : "Gloves of Brawn", "link" : "https://classicdb.ch/?item=2230"},
+{"name" : "Stomping Boots", "link" : "https://classicdb.ch/?item=3741"},
+{"name" : "Firewalker Boots", "link" : "https://classicdb.ch/?item=6482"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"502" : {"name" : "Elixir of Pain",
+"link" : "https://classicdb.ch/?quest=502",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 24,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"503" : {"name" : "Gol&#039;dir",
+"link" : "https://classicdb.ch/?quest=503",
+"faction" : "Horde",
+"level" : 36,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"504" : {"name" : "Crushridge Warmongers",
+"link" : "https://classicdb.ch/?quest=504",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 31,
+"items" : [
+{"name" : "Burning Sliver", "link" : "https://classicdb.ch/?item=5249"},
+{"name" : "Lunar Buckler", "link" : "https://classicdb.ch/?item=3763"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Gnomeregan Exiles"},
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"505" : {"name" : "Syndicate Assassins",
+"link" : "https://classicdb.ch/?quest=505",
+"faction" : "Alliance",
+"level" : 33,
+"required_level" : 26,
+"items" : [
+{"name" : "Crusader Belt", "link" : "https://classicdb.ch/?item=3758"},
+{"name" : "Insulated Sage Gloves", "link" : "https://classicdb.ch/?item=3759"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Stormwind"}]
+},
+"506" : {"name" : "Blackmoore&#039;s Legacy",
+"link" : "https://classicdb.ch/?quest=506",
+"faction" : "Both",
+"level" : 36,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"507" : {"name" : "Lord Aliden Perenolde",
+"link" : "https://classicdb.ch/?quest=507",
+"faction" : "Horde",
+"level" : 42,
+"required_level" : 29,
+"items" : [],
+"reputations" : []
+},
+"508" : {"name" : "Taretha&#039;s Gift",
+"link" : "https://classicdb.ch/?quest=508",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 29,
+"items" : [
+{"name" : "Mantis Boots", "link" : "https://classicdb.ch/?item=3764"},
+{"name" : "Brigand's Pauldrons", "link" : "https://classicdb.ch/?item=3765"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"509" : {"name" : "Elixir of Agony",
+"link" : "https://classicdb.ch/?quest=509",
+"faction" : "Horde",
+"level" : 28,
+"required_level" : 24,
+"items" : [
+{"name" : "Swiftness Potion", "link" : "https://classicdb.ch/?item=2459"},
+{"name" : "Healing Potion", "link" : "https://classicdb.ch/?item=929"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"510" : {"name" : "Foreboding Plans",
+"link" : "https://classicdb.ch/?quest=510",
+"faction" : "Alliance",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"511" : {"name" : "Encrypted Letter",
+"link" : "https://classicdb.ch/?quest=511",
+"faction" : "Alliance",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"512" : {"name" : "Noble Deaths",
+"link" : "https://classicdb.ch/?quest=512",
+"faction" : "Alliance",
+"level" : 36,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Alliance"}]
+},
+"513" : {"name" : "Elixir of Agony",
+"link" : "https://classicdb.ch/?quest=513",
+"faction" : "Horde",
+"level" : 28,
+"required_level" : 28,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"514" : {"name" : "Letter to Stormpike",
+"link" : "https://classicdb.ch/?quest=514",
+"faction" : "Alliance",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"515" : {"name" : "Elixir of Agony",
+"link" : "https://classicdb.ch/?quest=515",
+"faction" : "Both",
+"level" : 30,
+"required_level" : 24,
+"items" : [
+{"name" : "High Apothecary Cloak", "link" : "https://classicdb.ch/?item=3749"},
+{"name" : "Meditative Sash", "link" : "https://classicdb.ch/?item=3747"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"516" : {"name" : "Beren&#039;s Peril",
+"link" : "https://classicdb.ch/?quest=516",
+"faction" : "Both",
+"level" : 21,
+"required_level" : 16,
+"items" : [
+{"name" : "Wand of Decay", "link" : "https://classicdb.ch/?item=5252"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"517" : {"name" : "Elixir of Agony",
+"link" : "https://classicdb.ch/?quest=517",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 26,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"518" : {"name" : "The Crown of Will",
+"link" : "https://classicdb.ch/?quest=518",
+"faction" : "Horde",
+"level" : 39,
+"required_level" : 34,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"519" : {"name" : "The Crown of Will",
+"link" : "https://classicdb.ch/?quest=519",
+"faction" : "Horde",
+"level" : 41,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"520" : {"name" : "The Crown of Will",
+"link" : "https://classicdb.ch/?quest=520",
+"faction" : "Horde",
+"level" : 43,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"521" : {"name" : "The Crown of Will",
+"link" : "https://classicdb.ch/?quest=521",
+"faction" : "Horde",
+"level" : 43,
+"required_level" : 43,
+"items" : [
+{"name" : "Ethereal Talisman", "link" : "https://classicdb.ch/?item=4430"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"522" : {"name" : "Assassin&#039;s Contract",
+"link" : "https://classicdb.ch/?quest=522",
+"faction" : "Alliance",
+"level" : 38,
+"required_level" : 34,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Stormwind"}]
+},
+"523" : {"name" : "Baron&#039;s Demise",
+"link" : "https://classicdb.ch/?quest=523",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"524" : {"name" : "Elixir of Agony",
+"link" : "https://classicdb.ch/?quest=524",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 28,
+"items" : [],
+"reputations" : [
+{"amount" : "500", "faction" : "Undercity"}]
+},
+"525" : {"name" : "Further Mysteries",
+"link" : "https://classicdb.ch/?quest=525",
+"faction" : "Both",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"526" : {"name" : "Lightforge Ingots",
+"link" : "https://classicdb.ch/?quest=526",
+"faction" : "Alliance",
+"level" : 29,
+"required_level" : 24,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"527" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=527",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"528" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=528",
+"faction" : "Horde",
+"level" : 25,
+"required_level" : 21,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"529" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=529",
+"faction" : "Horde",
+"level" : 26,
+"required_level" : 21,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"530" : {"name" : "A Husband&#039;s Revenge",
+"link" : "https://classicdb.ch/?quest=530",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 10,
+"items" : [
+{"name" : "Ring of Scorn", "link" : "https://classicdb.ch/?item=3235"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"531" : {"name" : "Vyrin&#039;s Revenge",
+"link" : "https://classicdb.ch/?quest=531",
+"faction" : "Alliance",
+"level" : 20,
+"required_level" : 15,
+"items" : [
+{"name" : "Hunting Ammo Sack", "link" : "https://classicdb.ch/?item=3574"},
+{"name" : "Hunting Quiver", "link" : "https://classicdb.ch/?item=3573"}],
+"reputations" : []
+},
+"532" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=532",
+"faction" : "Horde",
+"level" : 26,
+"required_level" : 23,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"533" : {"name" : "Infiltration",
+"link" : "https://classicdb.ch/?quest=533",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"535" : {"name" : "Valik",
+"link" : "https://classicdb.ch/?quest=535",
+"faction" : "Both",
+"level" : 34,
+"required_level" : 29,
+"items" : [
+{"name" : "Syndicate Missive", "link" : "https://classicdb.ch/?item=3601"}],
+"reputations" : []
+},
+"536" : {"name" : "Down the Coast",
+"link" : "https://classicdb.ch/?quest=536",
+"faction" : "Alliance",
+"level" : 30,
+"required_level" : 25,
+"items" : [],
+"reputations" : []
+},
+"537" : {"name" : "Dark Council",
+"link" : "https://classicdb.ch/?quest=537",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"538" : {"name" : "Southshore",
+"link" : "https://classicdb.ch/?quest=538",
+"faction" : "Both",
+"level" : 38,
+"required_level" : 20,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Stormwind"}]
+},
+"539" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=539",
+"faction" : "Horde",
+"level" : 28,
+"required_level" : 24,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"540" : {"name" : "Preserving Knowledge",
+"link" : "https://classicdb.ch/?quest=540",
+"faction" : "Both",
+"level" : 38,
+"required_level" : 24,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"541" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=541",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 25,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"542" : {"name" : "Return to Milton",
+"link" : "https://classicdb.ch/?quest=542",
+"faction" : "Both",
+"level" : 38,
+"required_level" : 27,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Alliance"}]
+},
+"543" : {"name" : "The Perenolde Tiara",
+"link" : "https://classicdb.ch/?quest=543",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "500", "faction" : "Stormwind"}]
+},
+"544" : {"name" : "Prison Break In",
+"link" : "https://classicdb.ch/?quest=544",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"545" : {"name" : "Dalaran Patrols",
+"link" : "https://classicdb.ch/?quest=545",
+"faction" : "Horde",
+"level" : 35,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"546" : {"name" : "Souvenirs of Death",
+"link" : "https://classicdb.ch/?quest=546",
+"faction" : "Alliance",
+"level" : 25,
+"required_level" : 21,
+"items" : [
+{"name" : "Skull Ring", "link" : "https://classicdb.ch/?item=3739"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"547" : {"name" : "Humbert&#039;s Sword",
+"link" : "https://classicdb.ch/?quest=547",
+"faction" : "Alliance",
+"level" : 30,
+"required_level" : 26,
+"items" : [
+{"name" : "Ribbed Breastplate", "link" : "https://classicdb.ch/?item=3750"},
+{"name" : "Mercenary Leggings", "link" : "https://classicdb.ch/?item=3751"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"549" : {"name" : "WANTED: Syndicate Personnel",
+"link" : "https://classicdb.ch/?quest=549",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"550" : {"name" : "Battle of Hillsbrad",
+"link" : "https://classicdb.ch/?quest=550",
+"faction" : "Both",
+"level" : 32,
+"required_level" : 30,
+"items" : [
+{"name" : "Sacred Burial Trousers", "link" : "https://classicdb.ch/?item=6282"},
+{"name" : "Deadskull Shield", "link" : "https://classicdb.ch/?item=3761"},
+{"name" : "Runic Darkblade", "link" : "https://classicdb.ch/?item=3822"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"551" : {"name" : "The Ensorcelled Parchment",
+"link" : "https://classicdb.ch/?quest=551",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 34,
+"items" : [],
+"reputations" : []
+},
+"552" : {"name" : "Helcular&#039;s Revenge",
+"link" : "https://classicdb.ch/?quest=552",
+"faction" : "Horde",
+"level" : 33,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"553" : {"name" : "Helcular&#039;s Revenge",
+"link" : "https://classicdb.ch/?quest=553",
+"faction" : "Horde",
+"level" : 33,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"554" : {"name" : "Stormpike&#039;s Deciphering",
+"link" : "https://classicdb.ch/?quest=554",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"555" : {"name" : "Soothing Turtle Bisque",
+"link" : "https://classicdb.ch/?quest=555",
+"faction" : "Alliance",
+"level" : 31,
+"required_level" : 28,
+"items" : [
+{"name" : "Recipe: Soothing Turtle Bisque", "link" : "https://classicdb.ch/?item=3737"},
+{"name" : "Soothing Turtle Bisque", "link" : "https://classicdb.ch/?item=3729"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"556" : {"name" : "Stone Tokens",
+"link" : "https://classicdb.ch/?quest=556",
+"faction" : "Horde",
+"level" : 32,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"557" : {"name" : "Bracers of Binding",
+"link" : "https://classicdb.ch/?quest=557",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"558" : {"name" : "Jaina&#039;s Autograph",
+"link" : "https://classicdb.ch/?quest=558",
+"faction" : "Both",
+"level" : 60,
+"required_level" : 18,
+"items" : [],
+"reputations" : []
+},
+"559" : {"name" : "Farren&#039;s Proof",
+"link" : "https://classicdb.ch/?quest=559",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 25,
+"items" : [],
+"reputations" : []
+},
+"560" : {"name" : "Farren&#039;s Proof",
+"link" : "https://classicdb.ch/?quest=560",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Stormwind"}]
+},
+"561" : {"name" : "Farren&#039;s Proof",
+"link" : "https://classicdb.ch/?quest=561",
+"faction" : "Both",
+"level" : 32,
+"required_level" : 25,
+"items" : [],
+"reputations" : []
+},
+"562" : {"name" : "Stormwind Ho!",
+"link" : "https://classicdb.ch/?quest=562",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 25,
+"items" : [
+{"name" : "Fish Gutter", "link" : "https://classicdb.ch/?item=3755"}],
+"reputations" : []
+},
+"563" : {"name" : "Reassignment",
+"link" : "https://classicdb.ch/?quest=563",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 32,
+"items" : [],
+"reputations" : []
+},
+"564" : {"name" : "Costly Menace",
+"link" : "https://classicdb.ch/?quest=564",
+"faction" : "Alliance",
+"level" : 34,
+"required_level" : 30,
+"items" : [
+{"name" : "Shepherd's Girdle", "link" : "https://classicdb.ch/?item=3753"},
+{"name" : "Shepherd's Gloves", "link" : "https://classicdb.ch/?item=3754"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"565" : {"name" : "Bartolo&#039;s Yeti Fur Cloak",
+"link" : "https://classicdb.ch/?quest=565",
+"faction" : "Alliance",
+"level" : 34,
+"required_level" : 29,
+"items" : [
+{"name" : "Yeti Fur Cloak", "link" : "https://classicdb.ch/?item=2805"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"566" : {"name" : "WANTED: Baron Vardus",
+"link" : "https://classicdb.ch/?quest=566",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 35,
+"items" : [
+{"name" : "Inferno Robe", "link" : "https://classicdb.ch/?item=2231"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"567" : {"name" : "Dangerous!",
+"link" : "https://classicdb.ch/?quest=567",
+"faction" : "Horde",
+"level" : 28,
+"required_level" : 20,
+"items" : [
+{"name" : "Bow of Plunder", "link" : "https://classicdb.ch/?item=3742"},
+{"name" : "Sentry Buckler", "link" : "https://classicdb.ch/?item=3743"},
+{"name" : "Charred Wand", "link" : "https://classicdb.ch/?item=5250"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"568" : {"name" : "The Defense of Grom&#039;gol",
+"link" : "https://classicdb.ch/?quest=568",
+"faction" : "Horde",
+"level" : 36,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"569" : {"name" : "The Defense of Grom&#039;gol",
+"link" : "https://classicdb.ch/?quest=569",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 33,
+"items" : [
+{"name" : "Grom'gol Buckler", "link" : "https://classicdb.ch/?item=4115"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"570" : {"name" : "Mok&#039;thardin&#039;s Enchantment",
+"link" : "https://classicdb.ch/?quest=570",
+"faction" : "Horde",
+"level" : 38,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"571" : {"name" : "Mok&#039;thardin&#039;s Enchantment",
+"link" : "https://classicdb.ch/?quest=571",
+"faction" : "Horde",
+"level" : 41,
+"required_level" : 36,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"572" : {"name" : "Mok&#039;thardin&#039;s Enchantment",
+"link" : "https://classicdb.ch/?quest=572",
+"faction" : "Horde",
+"level" : 41,
+"required_level" : 34,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"573" : {"name" : "Mok&#039;thardin&#039;s Enchantment",
+"link" : "https://classicdb.ch/?quest=573",
+"faction" : "Horde",
+"level" : 44,
+"required_level" : 37,
+"items" : [
+{"name" : "Choker of the High Shaman", "link" : "https://classicdb.ch/?item=4112"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"574" : {"name" : "Special Forces",
+"link" : "https://classicdb.ch/?quest=574",
+"faction" : "Alliance",
+"level" : 38,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"575" : {"name" : "Supply and Demand",
+"link" : "https://classicdb.ch/?quest=575",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"576" : {"name" : "Keep An Eye Out",
+"link" : "https://classicdb.ch/?quest=576",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 37,
+"items" : [
+{"name" : "Darktide Cape", "link" : "https://classicdb.ch/?item=4114"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"577" : {"name" : "Some Assembly Required",
+"link" : "https://classicdb.ch/?quest=577",
+"faction" : "Both",
+"level" : 36,
+"required_level" : 31,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"578" : {"name" : "The Stone of the Tides",
+"link" : "https://classicdb.ch/?quest=578",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"579" : {"name" : "Stormwind Library",
+"link" : "https://classicdb.ch/?quest=579",
+"faction" : "Alliance",
+"level" : 16,
+"required_level" : 2504,
+"items" : [
+{"name" : "The Story of Morgan Ladimore", "link" : "https://classicdb.ch/?item=2154"},
+{"name" : "Legends of the Gurubashi, Volume 3", "link" : "https://classicdb.ch/?item=3899"}],
+"reputations" : []
+},
+"580" : {"name" : "Whiskey Slim&#039;s Lost Grog",
+"link" : "https://classicdb.ch/?quest=580",
+"faction" : "Both",
+"level" : 50,
+"required_level" : 40,
+"items" : [
+{"name" : "Rumsey Rum", "link" : "https://classicdb.ch/?item=17048"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"581" : {"name" : "Hunt for Yenniku",
+"link" : "https://classicdb.ch/?quest=581",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"582" : {"name" : "Headhunting",
+"link" : "https://classicdb.ch/?quest=582",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 31,
+"items" : [
+{"name" : "Darkspear Cuffs", "link" : "https://classicdb.ch/?item=4133"},
+{"name" : "Darkspear Armsplints", "link" : "https://classicdb.ch/?item=4132"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"583" : {"name" : "Welcome to the Jungle",
+"link" : "https://classicdb.ch/?quest=583",
+"faction" : "Both",
+"level" : 30,
+"required_level" : 28,
+"items" : [],
+"reputations" : []
+},
+"584" : {"name" : "Bloodscalp Clan Heads",
+"link" : "https://classicdb.ch/?quest=584",
+"faction" : "Horde",
+"level" : 41,
+"required_level" : 34,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"585" : {"name" : "Speaking with Nezzliok",
+"link" : "https://classicdb.ch/?quest=585",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 36,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darkspear Trolls"}]
+},
+"586" : {"name" : "Speaking with Gan&#039;zulah",
+"link" : "https://classicdb.ch/?quest=586",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 36,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"587" : {"name" : "Up to Snuff",
+"link" : "https://classicdb.ch/?quest=587",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"588" : {"name" : "The Fate of Yenniku",
+"link" : "https://classicdb.ch/?quest=588",
+"faction" : "Horde",
+"level" : 45,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Darkspear Trolls"}]
+},
+"589" : {"name" : "The Singing Crystals",
+"link" : "https://classicdb.ch/?quest=589",
+"faction" : "Horde",
+"level" : 45,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"590" : {"name" : "A Rogue&#039;s Deal",
+"link" : "https://classicdb.ch/?quest=590",
+"faction" : "Both",
+"level" : 6784,
+"required_level" : 6784,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Undercity"}]
+},
+"591" : {"name" : "The Mind&#039;s Eye",
+"link" : "https://classicdb.ch/?quest=591",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 40,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Darkspear Trolls"}]
+},
+"592" : {"name" : "Saving Yenniku",
+"link" : "https://classicdb.ch/?quest=592",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 41,
+"items" : [
+{"name" : "Nimboya's Mystical Staff", "link" : "https://classicdb.ch/?item=4134"},
+{"name" : "Medal of Courage", "link" : "https://classicdb.ch/?item=6723"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darkspear Trolls"}]
+},
+"593" : {"name" : "Filling the Soul Gem",
+"link" : "https://classicdb.ch/?quest=593",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 99,
+"items" : [
+{"name" : "Filled Soul Gem", "link" : "https://classicdb.ch/?item=3913"}],
+"reputations" : []
+},
+"594" : {"name" : "Message in a Bottle",
+"link" : "https://classicdb.ch/?quest=594",
+"faction" : "Both",
+"level" : 45,
+"required_level" : 45,
+"items" : [],
+"reputations" : []
+},
+"595" : {"name" : "The Bloodsail Buccaneers",
+"link" : "https://classicdb.ch/?quest=595",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "-150", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "150", "faction" : "Booty Bay"}]
+},
+"596" : {"name" : "Bloody Bone Necklaces",
+"link" : "https://classicdb.ch/?quest=596",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 30,
+"items" : [
+{"name" : "Bloodbone Band", "link" : "https://classicdb.ch/?item=4135"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"597" : {"name" : "The Bloodsail Buccaneers",
+"link" : "https://classicdb.ch/?quest=597",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "-150", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "150", "faction" : "Booty Bay"}]
+},
+"598" : {"name" : "Split Bone Necklace",
+"link" : "https://classicdb.ch/?quest=598",
+"faction" : "Horde",
+"level" : 42,
+"required_level" : 33,
+"items" : [
+{"name" : "Darkspear Shoes", "link" : "https://classicdb.ch/?item=4137"},
+{"name" : "Darkspear Boots", "link" : "https://classicdb.ch/?item=4136"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"599" : {"name" : "The Bloodsail Buccaneers",
+"link" : "https://classicdb.ch/?quest=599",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "-25", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "25", "faction" : "Booty Bay"}]
+},
+"600" : {"name" : "Venture Company Mining",
+"link" : "https://classicdb.ch/?quest=600",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 31,
+"items" : [
+{"name" : "Goblin Igniter", "link" : "https://classicdb.ch/?item=5253"},
+{"name" : "Silver Spade", "link" : "https://classicdb.ch/?item=4128"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"601" : {"name" : "Water Elementals",
+"link" : "https://classicdb.ch/?quest=601",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"602" : {"name" : "Magical Analysis",
+"link" : "https://classicdb.ch/?quest=602",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"603" : {"name" : "Ansirem&#039;s Key",
+"link" : "https://classicdb.ch/?quest=603",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 34,
+"items" : [],
+"reputations" : [
+{"amount" : "-75", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "75", "faction" : "Booty Bay"}]
+},
+"604" : {"name" : "The Bloodsail Buccaneers",
+"link" : "https://classicdb.ch/?quest=604",
+"faction" : "Both",
+"level" : 43,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"605" : {"name" : "Singing Blue Shards",
+"link" : "https://classicdb.ch/?quest=605",
+"faction" : "Both",
+"level" : 35,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"606" : {"name" : "Scaring Shaky",
+"link" : "https://classicdb.ch/?quest=606",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "-25", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "25", "faction" : "Booty Bay"}]
+},
+"607" : {"name" : "Return to MacKinley",
+"link" : "https://classicdb.ch/?quest=607",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 39,
+"items" : [],
+"reputations" : [
+{"amount" : "-150", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "150", "faction" : "Booty Bay"}]
+},
+"608" : {"name" : "The Bloodsail Buccaneers",
+"link" : "https://classicdb.ch/?quest=608",
+"faction" : "Both",
+"level" : 45,
+"required_level" : 37,
+"items" : [
+{"name" : "Blackwater Tunic", "link" : "https://classicdb.ch/?item=4138"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"609" : {"name" : "Voodoo Dues",
+"link" : "https://classicdb.ch/?quest=609",
+"faction" : "Both",
+"level" : 44,
+"required_level" : 36,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"610" : {"name" : "&quot;Pretty Boy&quot; Duncan",
+"link" : "https://classicdb.ch/?quest=610",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 34,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"611" : {"name" : "The Curse of the Tides",
+"link" : "https://classicdb.ch/?quest=611",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 34,
+"items" : [
+{"name" : "Robe of Crystal Waters", "link" : "https://classicdb.ch/?item=4120"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"613" : {"name" : "Cracking Maury&#039;s Foot",
+"link" : "https://classicdb.ch/?quest=613",
+"faction" : "Both",
+"level" : 44,
+"required_level" : 39,
+"items" : [
+{"name" : "Collection Plate", "link" : "https://classicdb.ch/?item=4129"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"614" : {"name" : "The Captain&#039;s Chest",
+"link" : "https://classicdb.ch/?quest=614",
+"faction" : "Alliance",
+"level" : 51,
+"required_level" : 35,
+"items" : [
+{"name" : "Bloodband Bracers", "link" : "https://classicdb.ch/?item=11469"}],
+"reputations" : []
+},
+"615" : {"name" : "The Captain&#039;s Cutlass",
+"link" : "https://classicdb.ch/?quest=615",
+"faction" : "Alliance",
+"level" : 51,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"616" : {"name" : "The Haunted Isle",
+"link" : "https://classicdb.ch/?quest=616",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 32,
+"items" : [],
+"reputations" : []
+},
+"617" : {"name" : "Akiris by the Bundle",
+"link" : "https://classicdb.ch/?quest=617",
+"faction" : "Both",
+"level" : 43,
+"required_level" : 38,
+"items" : [
+{"name" : "Scorching Sash", "link" : "https://classicdb.ch/?item=4117"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"618" : {"name" : "Facing Negolash",
+"link" : "https://classicdb.ch/?quest=618",
+"faction" : "Alliance",
+"level" : 52,
+"required_level" : 35,
+"items" : [
+{"name" : "Smotts' Compass", "link" : "https://classicdb.ch/?item=4130"}],
+"reputations" : [
+{"amount" : "500", "faction" : "Booty Bay"},
+{"amount" : "-500", "faction" : "Bloodsail Buccaneers"}]
+},
+"619" : {"name" : "Enticing Negolash",
+"link" : "https://classicdb.ch/?quest=619",
+"faction" : "Both",
+"level" : 52,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"621" : {"name" : "Zanzil&#039;s Secret",
+"link" : "https://classicdb.ch/?quest=621",
+"faction" : "Alliance",
+"level" : 44,
+"required_level" : 35,
+"items" : [
+{"name" : "Belt of Corruption", "link" : "https://classicdb.ch/?item=4131"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"622" : {"name" : "Return to Corporal Kaleb",
+"link" : "https://classicdb.ch/?quest=622",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 32,
+"items" : [
+{"name" : "Cap of Harmony", "link" : "https://classicdb.ch/?item=4124"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"623" : {"name" : "Akiris by the Bundle",
+"link" : "https://classicdb.ch/?quest=623",
+"faction" : "Both",
+"level" : 43,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"624" : {"name" : "Cortello&#039;s Riddle",
+"link" : "https://classicdb.ch/?quest=624",
+"faction" : "Both",
+"level" : 43,
+"required_level" : 38,
+"items" : [],
+"reputations" : []
+},
+"625" : {"name" : "Cortello&#039;s Riddle",
+"link" : "https://classicdb.ch/?quest=625",
+"faction" : "Both",
+"level" : 43,
+"required_level" : 37,
+"items" : [],
+"reputations" : []
+},
+"626" : {"name" : "Cortello&#039;s Riddle",
+"link" : "https://classicdb.ch/?quest=626",
+"faction" : "Both",
+"level" : 51,
+"required_level" : 39,
+"items" : [
+{"name" : "Explorer's Knapsack", "link" : "https://classicdb.ch/?item=11324"}],
+"reputations" : []
+},
+"627" : {"name" : "Favor for Krazek",
+"link" : "https://classicdb.ch/?quest=627",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "-150", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "150", "faction" : "Booty Bay"}]
+},
+"628" : {"name" : "Excelsior",
+"link" : "https://classicdb.ch/?quest=628",
+"faction" : "Both",
+"level" : 38,
+"required_level" : 32,
+"items" : [
+{"name" : "Excelsior Boots", "link" : "https://classicdb.ch/?item=4109"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"629" : {"name" : "The Vile Reef",
+"link" : "https://classicdb.ch/?quest=629",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"630" : {"name" : "Message in a Bottle",
+"link" : "https://classicdb.ch/?quest=630",
+"faction" : "Both",
+"level" : 51,
+"required_level" : 45,
+"items" : [
+{"name" : "Poobah's Nose Ring", "link" : "https://classicdb.ch/?item=4118"}],
+"reputations" : []
+},
+"631" : {"name" : "The Thandol Span",
+"link" : "https://classicdb.ch/?quest=631",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 28,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"632" : {"name" : "The Thandol Span",
+"link" : "https://classicdb.ch/?quest=632",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 28,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"633" : {"name" : "The Thandol Span",
+"link" : "https://classicdb.ch/?quest=633",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 28,
+"items" : [
+{"name" : "Dwarven Guard Cloak", "link" : "https://classicdb.ch/?item=4504"},
+{"name" : "Swampland Trousers", "link" : "https://classicdb.ch/?item=4505"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"634" : {"name" : "Plea To The Alliance",
+"link" : "https://classicdb.ch/?quest=634",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 28,
+"items" : [],
+"reputations" : []
+},
+"635" : {"name" : "Crystal in the Mountains",
+"link" : "https://classicdb.ch/?quest=635",
+"faction" : "Both",
+"level" : 35,
+"required_level" : 30,
+"items" : [],
+"reputations" : []
+},
+"636" : {"name" : "Legends of the Earth",
+"link" : "https://classicdb.ch/?quest=636",
+"faction" : "Both",
+"level" : 35,
+"required_level" : 30,
+"items" : [],
+"reputations" : []
+},
+"637" : {"name" : "Sully Balloo&#039;s Letter",
+"link" : "https://classicdb.ch/?quest=637",
+"faction" : "Alliance",
+"level" : 30,
+"required_level" : 26,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"638" : {"name" : "Trollbane",
+"link" : "https://classicdb.ch/?quest=638",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Darkspear Trolls"}]
+},
+"639" : {"name" : "Sigil of Strom",
+"link" : "https://classicdb.ch/?quest=639",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"640" : {"name" : "The Broken Sigil",
+"link" : "https://classicdb.ch/?quest=640",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"641" : {"name" : "Sigil of Thoradin",
+"link" : "https://classicdb.ch/?quest=641",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Darkspear Trolls"}]
+},
+"642" : {"name" : "The Princess Trapped",
+"link" : "https://classicdb.ch/?quest=642",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 30,
+"items" : [],
+"reputations" : []
+},
+"643" : {"name" : "Sigil of Arathor",
+"link" : "https://classicdb.ch/?quest=643",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"644" : {"name" : "Sigil of Trollbane",
+"link" : "https://classicdb.ch/?quest=644",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"645" : {"name" : "Trol&#039;kalar",
+"link" : "https://classicdb.ch/?quest=645",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Darkspear Trolls"}]
+},
+"646" : {"name" : "Trol&#039;kalar",
+"link" : "https://classicdb.ch/?quest=646",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 39,
+"items" : [
+{"name" : "Blood-tinged Armor", "link" : "https://classicdb.ch/?item=4508"},
+{"name" : "Pit Fighter's Shield", "link" : "https://classicdb.ch/?item=4507"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darkspear Trolls"}]
+},
+"647" : {"name" : "MacKreel&#039;s Moonshine",
+"link" : "https://classicdb.ch/?quest=647",
+"faction" : "Both",
+"level" : 30,
+"required_level" : 27,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Ironforge"}]
+},
+"648" : {"name" : "Rescue OOX-17/TN!",
+"link" : "https://classicdb.ch/?quest=648",
+"faction" : "Both",
+"level" : 48,
+"required_level" : 43,
+"items" : [
+{"name" : "Optomatic Deflector", "link" : "https://classicdb.ch/?item=9643"},
+{"name" : "Thermotastic Egg Timer", "link" : "https://classicdb.ch/?item=9644"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"649" : {"name" : "Ripple Recovery",
+"link" : "https://classicdb.ch/?quest=649",
+"faction" : "Both",
+"level" : 48,
+"required_level" : 42,
+"items" : [],
+"reputations" : []
+},
+"650" : {"name" : "Ripple Recovery",
+"link" : "https://classicdb.ch/?quest=650",
+"faction" : "Both",
+"level" : 48,
+"required_level" : 42,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"651" : {"name" : "Stones of Binding",
+"link" : "https://classicdb.ch/?quest=651",
+"faction" : "Both",
+"level" : 38,
+"required_level" : 30,
+"items" : [],
+"reputations" : []
+},
+"652" : {"name" : "Breaking the Keystone",
+"link" : "https://classicdb.ch/?quest=652",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 30,
+"items" : [],
+"reputations" : []
+},
+"653" : {"name" : "Myzrael&#039;s Allies",
+"link" : "https://classicdb.ch/?quest=653",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 31,
+"items" : [],
+"reputations" : []
+},
+"654" : {"name" : "Tanaris Field Sampling",
+"link" : "https://classicdb.ch/?quest=654",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 41,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"655" : {"name" : "Hammerfall",
+"link" : "https://classicdb.ch/?quest=655",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Orgrimmar"}]
+},
+"656" : {"name" : "Summoning the Princess",
+"link" : "https://classicdb.ch/?quest=656",
+"faction" : "Alliance",
+"level" : 50,
+"required_level" : 32,
+"items" : [],
+"reputations" : []
+},
+"657" : {"name" : "Hints of a New Plague?",
+"link" : "https://classicdb.ch/?quest=657",
+"faction" : "Both",
+"level" : 36,
+"required_level" : 33,
+"items" : [],
+"reputations" : []
+},
+"658" : {"name" : "Hints of a New Plague?",
+"link" : "https://classicdb.ch/?quest=658",
+"faction" : "Both",
+"level" : 36,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"659" : {"name" : "Hints of a New Plague?",
+"link" : "https://classicdb.ch/?quest=659",
+"faction" : "Alliance",
+"level" : 33,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"660" : {"name" : "Hints of a New Plague?",
+"link" : "https://classicdb.ch/?quest=660",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 31,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"661" : {"name" : "Hints of a New Plague?",
+"link" : "https://classicdb.ch/?quest=661",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 31,
+"items" : [
+{"name" : "Dustfall Robes", "link" : "https://classicdb.ch/?item=15455"},
+{"name" : "Lightstep Leggings", "link" : "https://classicdb.ch/?item=15456"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"662" : {"name" : "Deep Sea Salvage",
+"link" : "https://classicdb.ch/?quest=662",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [
+{"name" : "Black Water Hammer", "link" : "https://classicdb.ch/?item=4511"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"663" : {"name" : "Land Ho!",
+"link" : "https://classicdb.ch/?quest=663",
+"faction" : "Both",
+"level" : 35,
+"required_level" : 31,
+"items" : [],
+"reputations" : [
+{"amount" : "-25", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "25", "faction" : "Booty Bay"}]
+},
+"664" : {"name" : "Drowned Sorrows",
+"link" : "https://classicdb.ch/?quest=664",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [
+{"name" : "Seawolf Gloves", "link" : "https://classicdb.ch/?item=4509"}],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"665" : {"name" : "Sunken Treasure",
+"link" : "https://classicdb.ch/?quest=665",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"666" : {"name" : "Sunken Treasure",
+"link" : "https://classicdb.ch/?quest=666",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [
+{"name" : "Gnomish Zapper", "link" : "https://classicdb.ch/?item=4547"},
+{"name" : "Servomechanic Sledgehammer", "link" : "https://classicdb.ch/?item=4548"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"667" : {"name" : "Death From Below",
+"link" : "https://classicdb.ch/?quest=667",
+"faction" : "Both",
+"level" : 44,
+"required_level" : 39,
+"items" : [
+{"name" : "Coldwater Ring", "link" : "https://classicdb.ch/?item=4550"},
+{"name" : "Seafire Band", "link" : "https://classicdb.ch/?item=4549"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"668" : {"name" : "Sunken Treasure",
+"link" : "https://classicdb.ch/?quest=668",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "-75", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "75", "faction" : "Booty Bay"}]
+},
+"669" : {"name" : "Sunken Treasure",
+"link" : "https://classicdb.ch/?quest=669",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"670" : {"name" : "Sunken Treasure",
+"link" : "https://classicdb.ch/?quest=670",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 40,
+"items" : [],
+"reputations" : [
+{"amount" : "-250", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "250", "faction" : "Booty Bay"}]
+},
+"671" : {"name" : "Foul Magics",
+"link" : "https://classicdb.ch/?quest=671",
+"faction" : "Horde",
+"level" : 33,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"672" : {"name" : "Raising Spirits",
+"link" : "https://classicdb.ch/?quest=672",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"673" : {"name" : "Foul Magics",
+"link" : "https://classicdb.ch/?quest=673",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 35,
+"items" : [
+{"name" : "White Drakeskin Cap", "link" : "https://classicdb.ch/?item=4543"},
+{"name" : "Radiant Silver Bracers", "link" : "https://classicdb.ch/?item=4545"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"674" : {"name" : "Raising Spirits",
+"link" : "https://classicdb.ch/?quest=674",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Orgrimmar"}]
+},
+"675" : {"name" : "Raising Spirits",
+"link" : "https://classicdb.ch/?quest=675",
+"faction" : "Horde",
+"level" : 34,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Orgrimmar"}]
+},
+"676" : {"name" : "The Hammer May Fall",
+"link" : "https://classicdb.ch/?quest=676",
+"faction" : "Horde",
+"level" : 32,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"677" : {"name" : "Call to Arms",
+"link" : "https://classicdb.ch/?quest=677",
+"faction" : "Horde",
+"level" : 32,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"678" : {"name" : "Call to Arms",
+"link" : "https://classicdb.ch/?quest=678",
+"faction" : "Horde",
+"level" : 38,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"679" : {"name" : "Call to Arms",
+"link" : "https://classicdb.ch/?quest=679",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 33,
+"items" : [
+{"name" : "Silent Hunter", "link" : "https://classicdb.ch/?item=9520"},
+{"name" : "Skullsplitter", "link" : "https://classicdb.ch/?item=9521"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"680" : {"name" : "The Real Threat",
+"link" : "https://classicdb.ch/?quest=680",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 30,
+"items" : [
+{"name" : "Mistspray Kilt", "link" : "https://classicdb.ch/?item=4976"},
+{"name" : "Sword of Hammerfall", "link" : "https://classicdb.ch/?item=4977"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"681" : {"name" : "Northfold Manor",
+"link" : "https://classicdb.ch/?quest=681",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"682" : {"name" : "Stromgarde Badges",
+"link" : "https://classicdb.ch/?quest=682",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 30,
+"items" : [
+{"name" : "Stromgarde Cavalry Leggings", "link" : "https://classicdb.ch/?item=4741"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"683" : {"name" : "Sara Balloo&#039;s Plea",
+"link" : "https://classicdb.ch/?quest=683",
+"faction" : "Alliance",
+"level" : 30,
+"required_level" : 25,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"684" : {"name" : "Wanted!  Marez Cowl",
+"link" : "https://classicdb.ch/?quest=684",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 30,
+"items" : [
+{"name" : "Arcane Runed Bracers", "link" : "https://classicdb.ch/?item=4744"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"685" : {"name" : "Wanted!  Otto and Falconcrest",
+"link" : "https://classicdb.ch/?quest=685",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"686" : {"name" : "A King&#039;s Tribute",
+"link" : "https://classicdb.ch/?quest=686",
+"faction" : "Alliance",
+"level" : 30,
+"required_level" : 26,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"687" : {"name" : "Theldurin the Lost",
+"link" : "https://classicdb.ch/?quest=687",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"688" : {"name" : "Myzrael&#039;s Allies",
+"link" : "https://classicdb.ch/?quest=688",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"689" : {"name" : "A King&#039;s Tribute",
+"link" : "https://classicdb.ch/?quest=689",
+"faction" : "Alliance",
+"level" : 31,
+"required_level" : 25,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"690" : {"name" : "Malin&#039;s Request",
+"link" : "https://classicdb.ch/?quest=690",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"691" : {"name" : "Worth Its Weight in Gold",
+"link" : "https://classicdb.ch/?quest=691",
+"faction" : "Alliance",
+"level" : 36,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"692" : {"name" : "The Lost Fragments",
+"link" : "https://classicdb.ch/?quest=692",
+"faction" : "Both",
+"level" : 41,
+"required_level" : 34,
+"items" : [],
+"reputations" : []
+},
+"693" : {"name" : "Wand over Fist",
+"link" : "https://classicdb.ch/?quest=693",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 32,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"694" : {"name" : "Trelane&#039;s Defenses",
+"link" : "https://classicdb.ch/?quest=694",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"695" : {"name" : "An Apprentice&#039;s Enchantment",
+"link" : "https://classicdb.ch/?quest=695",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Ironforge"}]
+},
+"696" : {"name" : "Attack on the Tower",
+"link" : "https://classicdb.ch/?quest=696",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"697" : {"name" : "Malin&#039;s Request",
+"link" : "https://classicdb.ch/?quest=697",
+"faction" : "Alliance",
+"level" : 39,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"698" : {"name" : "Lack of Surplus",
+"link" : "https://classicdb.ch/?quest=698",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"699" : {"name" : "Lack of Surplus",
+"link" : "https://classicdb.ch/?quest=699",
+"faction" : "Horde",
+"level" : 42,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"700" : {"name" : "A King&#039;s Tribute",
+"link" : "https://classicdb.ch/?quest=700",
+"faction" : "Alliance",
+"level" : 31,
+"required_level" : 30,
+"items" : [
+{"name" : "Ironforge Memorial Ring", "link" : "https://classicdb.ch/?item=4535"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"701" : {"name" : "Guile of the Raptor",
+"link" : "https://classicdb.ch/?quest=701",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"702" : {"name" : "Guile of the Raptor",
+"link" : "https://classicdb.ch/?quest=702",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Orgrimmar"}]
+},
+"703" : {"name" : "Barbecued Buzzard Wings",
+"link" : "https://classicdb.ch/?quest=703",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 33,
+"items" : [
+{"name" : "Barbecued Buzzard Wing", "link" : "https://classicdb.ch/?item=4457"},
+{"name" : "Recipe: Barbecued Buzzard Wing", "link" : "https://classicdb.ch/?item=4609"}],
+"reputations" : [
+{"amount" : "-150", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "150", "faction" : "Booty Bay"}]
+},
+"704" : {"name" : "Agmond&#039;s Fate",
+"link" : "https://classicdb.ch/?quest=704",
+"faction" : "Alliance",
+"level" : 38,
+"required_level" : 33,
+"items" : [
+{"name" : "Prospector Gloves", "link" : "https://classicdb.ch/?item=4980"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"705" : {"name" : "Pearl Diving",
+"link" : "https://classicdb.ch/?quest=705",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 33,
+"items" : [
+{"name" : "Flash Rifle", "link" : "https://classicdb.ch/?item=4086"},
+{"name" : "Flash Wand", "link" : "https://classicdb.ch/?item=5248"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"706" : {"name" : "Fiery Blaze Enchantments",
+"link" : "https://classicdb.ch/?quest=706",
+"faction" : "Alliance",
+"level" : 45,
+"required_level" : 40,
+"items" : [
+{"name" : "Fiery Blaze Enchantment", "link" : "https://classicdb.ch/?item=5421"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"707" : {"name" : "Ironband Wants You!",
+"link" : "https://classicdb.ch/?quest=707",
+"faction" : "Alliance",
+"level" : 37,
+"required_level" : 30,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Ironforge"}]
+},
+"708" : {"name" : "The Black Box",
+"link" : "https://classicdb.ch/?quest=708",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"709" : {"name" : "Solution to Doom",
+"link" : "https://classicdb.ch/?quest=709",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 33,
+"items" : [
+{"name" : "Doomsayer's Robe", "link" : "https://classicdb.ch/?item=4746"}],
+"reputations" : []
+},
+"710" : {"name" : "Study of the Elements: Rock",
+"link" : "https://classicdb.ch/?quest=710",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"711" : {"name" : "Study of the Elements: Rock",
+"link" : "https://classicdb.ch/?quest=711",
+"faction" : "Both",
+"level" : 39,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"712" : {"name" : "Study of the Elements: Rock",
+"link" : "https://classicdb.ch/?quest=712",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 36,
+"items" : [],
+"reputations" : []
+},
+"713" : {"name" : "Coolant Heads Prevail",
+"link" : "https://classicdb.ch/?quest=713",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"714" : {"name" : "Gyro... What?",
+"link" : "https://classicdb.ch/?quest=714",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 35,
+"items" : [],
+"reputations" : []
+},
+"715" : {"name" : "Liquid Stone",
+"link" : "https://classicdb.ch/?quest=715",
+"faction" : "Both",
+"level" : 37,
+"required_level" : 36,
+"items" : [
+{"name" : "Recipe: Lesser Stoneshield Potion", "link" : "https://classicdb.ch/?item=4624"},
+{"name" : "Lesser Stoneshield Potion", "link" : "https://classicdb.ch/?item=4623"}],
+"reputations" : []
+},
+"716" : {"name" : "Stone Is Better than Cloth",
+"link" : "https://classicdb.ch/?quest=716",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 38,
+"items" : [
+{"name" : "Enchanted Stonecloth Bracers", "link" : "https://classicdb.ch/?item=4979"}],
+"reputations" : []
+},
+"717" : {"name" : "Tremors of the Earth",
+"link" : "https://classicdb.ch/?quest=717",
+"faction" : "Alliance",
+"level" : 50,
+"required_level" : 40,
+"items" : [
+{"name" : "Blazewind Breastplate", "link" : "https://classicdb.ch/?item=11193"},
+{"name" : "Prismscale Hauberk", "link" : "https://classicdb.ch/?item=11194"},
+{"name" : "Warforged Chestplate", "link" : "https://classicdb.ch/?item=11195"},
+{"name" : "Mindburst Medallion", "link" : "https://classicdb.ch/?item=11196"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Stormwind"}]
+},
+"718" : {"name" : "Mirages",
+"link" : "https://classicdb.ch/?quest=718",
+"faction" : "Alliance",
+"level" : 38,
+"required_level" : 35,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"719" : {"name" : "A Dwarf and His Tools",
+"link" : "https://classicdb.ch/?quest=719",
+"faction" : "Alliance",
+"level" : 35,
+"required_level" : 35,
+"items" : [
+{"name" : "Ryedol's Hammer", "link" : "https://classicdb.ch/?item=4978"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"720" : {"name" : "A Sign of Hope",
+"link" : "https://classicdb.ch/?quest=720",
+"faction" : "Alliance",
+"level" : 35,
+"required_level" : 29,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"721" : {"name" : "A Sign of Hope",
+"link" : "https://classicdb.ch/?quest=721",
+"faction" : "Alliance",
+"level" : 35,
+"required_level" : 33,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"722" : {"name" : "Amulet of Secrets",
+"link" : "https://classicdb.ch/?quest=722",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"723" : {"name" : "Prospect of Faith",
+"link" : "https://classicdb.ch/?quest=723",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 36,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"724" : {"name" : "Prospect of Faith",
+"link" : "https://classicdb.ch/?quest=724",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"725" : {"name" : "Passing Word of a Threat",
+"link" : "https://classicdb.ch/?quest=725",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 36,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"726" : {"name" : "Passing Word of a Threat",
+"link" : "https://classicdb.ch/?quest=726",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 37,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"727" : {"name" : "To Ironforge for Yagyin&#039;s Digest",
+"link" : "https://classicdb.ch/?quest=727",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 38,
+"items" : [],
+"reputations" : []
+},
+"728" : {"name" : "To the Undercity for Yagyin&#039;s Digest",
+"link" : "https://classicdb.ch/?quest=728",
+"faction" : "Horde",
+"level" : 40,
+"required_level" : 38,
+"items" : [],
+"reputations" : []
+},
+"729" : {"name" : "The Absent Minded Prospector",
+"link" : "https://classicdb.ch/?quest=729",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 15,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"730" : {"name" : "Trouble In Darkshore?",
+"link" : "https://classicdb.ch/?quest=730",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"731" : {"name" : "The Absent Minded Prospector",
+"link" : "https://classicdb.ch/?quest=731",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 16,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"732" : {"name" : "Tremors of the Earth",
+"link" : "https://classicdb.ch/?quest=732",
+"faction" : "Alliance",
+"level" : 43,
+"required_level" : 40,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+},
+"733" : {"name" : "Scrounging",
+"link" : "https://classicdb.ch/?quest=733",
+"faction" : "Alliance",
+"level" : 40,
+"required_level" : 36,
+"items" : [
+{"name" : "Salbac Shield", "link" : "https://classicdb.ch/?item=4652"},
+{"name" : "Ironheel Boots", "link" : "https://classicdb.ch/?item=4653"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"734" : {"name" : "This Is Going to Be Hard",
+"link" : "https://classicdb.ch/?quest=734",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 39,
+"items" : [],
+"reputations" : []
+},
+"735" : {"name" : "The Star, the Hand and the Heart",
+"link" : "https://classicdb.ch/?quest=735",
+"faction" : "Alliance",
+"level" : 44,
+"required_level" : 39,
+"items" : [],
+"reputations" : []
+},
+"736" : {"name" : "The Star, the Hand and the Heart",
+"link" : "https://classicdb.ch/?quest=736",
+"faction" : "Horde",
+"level" : 44,
+"required_level" : 41,
+"items" : [],
+"reputations" : []
+},
+"737" : {"name" : "Forbidden Knowledge",
+"link" : "https://classicdb.ch/?quest=737",
+"faction" : "Both",
+"level" : 40,
+"required_level" : 36,
+"items" : [
+{"name" : "Skull of Impending Doom", "link" : "https://classicdb.ch/?item=4984"}],
+"reputations" : []
+},
+"738" : {"name" : "Find Agmond",
+"link" : "https://classicdb.ch/?quest=738",
+"faction" : "Alliance",
+"level" : 38,
+"required_level" : 30,
+"items" : [
+{"name" : "Ripped Prospector Belt", "link" : "https://classicdb.ch/?item=4982"},
+{"name" : "Jade", "link" : "https://classicdb.ch/?item=1529"},
+{"name" : "Gold Ore", "link" : "https://classicdb.ch/?item=2776"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"739" : {"name" : "Murdaloc",
+"link" : "https://classicdb.ch/?quest=739",
+"faction" : "Alliance",
+"level" : 42,
+"required_level" : 33,
+"items" : [
+{"name" : "Rock Pulverizer", "link" : "https://classicdb.ch/?item=4983"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"741" : {"name" : "The Absent Minded Prospector",
+"link" : "https://classicdb.ch/?quest=741",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 15,
+"items" : [
+{"name" : "Hammerfist Gloves", "link" : "https://classicdb.ch/?item=5629"},
+{"name" : "Windfelt Gloves", "link" : "https://classicdb.ch/?item=5630"},
+{"name" : "Relic Hunter Belt", "link" : "https://classicdb.ch/?item=11936"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Ironforge"}]
+},
+"742" : {"name" : "The Ashenvale Hunt",
+"link" : "https://classicdb.ch/?quest=742",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 20,
+"items" : [],
+"reputations" : []
+},
+"743" : {"name" : "Dangers of the Windfury",
+"link" : "https://classicdb.ch/?quest=743",
+"faction" : "Both",
+"level" : 2985,
+"required_level" : 2985,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"744" : {"name" : "Preparation for Ceremony",
+"link" : "https://classicdb.ch/?quest=744",
+"faction" : "Horde",
+"level" : 11,
+"required_level" : 2987,
+"items" : [
+{"name" : "Bound Harness", "link" : "https://classicdb.ch/?item=4968"},
+{"name" : "Tribal Warrior's Shield", "link" : "https://classicdb.ch/?item=4967"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"745" : {"name" : "Sharing the Land",
+"link" : "https://classicdb.ch/?quest=745",
+"faction" : "Both",
+"level" : 2993,
+"required_level" : 2993,
+"items" : [
+{"name" : "Flash Pellet", "link" : "https://classicdb.ch/?item=4960"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"746" : {"name" : "Dwarven Digging",
+"link" : "https://classicdb.ch/?quest=746",
+"faction" : "Both",
+"level" : 2993,
+"required_level" : 2993,
+"items" : [
+{"name" : "Fortified Bindings", "link" : "https://classicdb.ch/?item=4969"},
+{"name" : "Rough-hewn Kodo Leggings", "link" : "https://classicdb.ch/?item=4970"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"747" : {"name" : "The Hunt Begins",
+"link" : "https://classicdb.ch/?quest=747",
+"faction" : "Horde",
+"level" : 2980,
+"required_level" : 2980,
+"items" : [
+{"name" : "Nomadic Belt", "link" : "https://classicdb.ch/?item=4954"},
+{"name" : "Painted Chain Gloves", "link" : "https://classicdb.ch/?item=4910"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"748" : {"name" : "Poison Water",
+"link" : "https://classicdb.ch/?quest=748",
+"faction" : "Both",
+"level" : 2948,
+"required_level" : 2948,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"749" : {"name" : "The Ravaged Caravan",
+"link" : "https://classicdb.ch/?quest=749",
+"faction" : "Both",
+"level" : 2988,
+"required_level" : 2988,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"750" : {"name" : "The Hunt Continues",
+"link" : "https://classicdb.ch/?quest=750",
+"faction" : "Both",
+"level" : 2980,
+"required_level" : 2980,
+"items" : [
+{"name" : "Nomadic Bracers", "link" : "https://classicdb.ch/?item=4908"},
+{"name" : "Painted Chain Belt", "link" : "https://classicdb.ch/?item=4913"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"751" : {"name" : "The Ravaged Caravan",
+"link" : "https://classicdb.ch/?quest=751",
+"faction" : "Both",
+"level" : 2908,
+"required_level" : 2908,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"752" : {"name" : "A Humble Task",
+"link" : "https://classicdb.ch/?quest=752",
+"faction" : "Both",
+"level" : 2981,
+"required_level" : 2981,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Thunder Bluff"}]
+},
+"753" : {"name" : "A Humble Task",
+"link" : "https://classicdb.ch/?quest=753",
+"faction" : "Both",
+"level" : 2991,
+"required_level" : 2991,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"754" : {"name" : "Winterhoof Cleansing",
+"link" : "https://classicdb.ch/?quest=754",
+"faction" : "Both",
+"level" : 2948,
+"required_level" : 2948,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"755" : {"name" : "Rites of the Earthmother",
+"link" : "https://classicdb.ch/?quest=755",
+"faction" : "Both",
+"level" : 2981,
+"required_level" : 2981,
+"items" : [
+{"name" : "Mark of the Wild", "link" : "https://classicdb.ch/?spell=1126"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"756" : {"name" : "Thunderhorn Totem",
+"link" : "https://classicdb.ch/?quest=756",
+"faction" : "Both",
+"level" : 2948,
+"required_level" : 2948,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"757" : {"name" : "Rite of Strength",
+"link" : "https://classicdb.ch/?quest=757",
+"faction" : "Both",
+"level" : 2982,
+"required_level" : 2982,
+"items" : [
+{"name" : "Rock Mace", "link" : "https://classicdb.ch/?item=1382"},
+{"name" : "Stone Tomahawk", "link" : "https://classicdb.ch/?item=1383"},
+{"name" : "Whittling Knife", "link" : "https://classicdb.ch/?item=2137"},
+{"name" : "Elder's Cane", "link" : "https://classicdb.ch/?item=5776"},
+{"name" : "Brave's Axe", "link" : "https://classicdb.ch/?item=5777"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"758" : {"name" : "Thunderhorn Cleansing",
+"link" : "https://classicdb.ch/?quest=758",
+"faction" : "Both",
+"level" : 2948,
+"required_level" : 2948,
+"items" : [
+{"name" : "Thunderhorn Cloak", "link" : "https://classicdb.ch/?item=4963"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"759" : {"name" : "Wildmane Totem",
+"link" : "https://classicdb.ch/?quest=759",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 2948,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"760" : {"name" : "Wildmane Cleansing",
+"link" : "https://classicdb.ch/?quest=760",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 2948,
+"items" : [
+{"name" : "Ceremonial Tomahawk", "link" : "https://classicdb.ch/?item=3443"},
+{"name" : "Dreamwatcher Staff", "link" : "https://classicdb.ch/?item=4961"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"761" : {"name" : "Swoop Hunting",
+"link" : "https://classicdb.ch/?quest=761",
+"faction" : "Both",
+"level" : 2947,
+"required_level" : 2947,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"762" : {"name" : "An Ambassador of Evil",
+"link" : "https://classicdb.ch/?quest=762",
+"faction" : "Alliance",
+"level" : 44,
+"required_level" : 39,
+"items" : [
+{"name" : "Dwarf Captain's Sword", "link" : "https://classicdb.ch/?item=4987"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Ironforge"}]
+},
+"763" : {"name" : "Rites of the Earthmother",
+"link" : "https://classicdb.ch/?quest=763",
+"faction" : "Both",
+"level" : 2981,
+"required_level" : 2981,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"764" : {"name" : "The Venture Co.",
+"link" : "https://classicdb.ch/?quest=764",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 2988,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"765" : {"name" : "Supervisor Fizsprocket",
+"link" : "https://classicdb.ch/?quest=765",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 2988,
+"items" : [
+{"name" : "Compact Fighting Knife", "link" : "https://classicdb.ch/?item=4974"},
+{"name" : "Goblin Smasher", "link" : "https://classicdb.ch/?item=4964"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"766" : {"name" : "Mazzranache",
+"link" : "https://classicdb.ch/?quest=766",
+"faction" : "Both",
+"level" : 3055,
+"required_level" : 3055,
+"items" : [
+{"name" : "Cliff Runner Boots", "link" : "https://classicdb.ch/?item=4972"},
+{"name" : "Plains Hunter Wristguards", "link" : "https://classicdb.ch/?item=4973"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"767" : {"name" : "Rite of Vision",
+"link" : "https://classicdb.ch/?quest=767",
+"faction" : "Both",
+"level" : 2993,
+"required_level" : 2993,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Thunder Bluff"}]
+},
+"768" : {"name" : "Gathering Leather",
+"link" : "https://classicdb.ch/?quest=768",
+"faction" : "Horde",
+"level" : 3050,
+"required_level" : 3050,
+"items" : [
+{"name" : "Animal Skin Belt", "link" : "https://classicdb.ch/?item=5936"},
+{"name" : "Double-layered Gloves", "link" : "https://classicdb.ch/?item=4962"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"769" : {"name" : "Kodo Hide Bag",
+"link" : "https://classicdb.ch/?quest=769",
+"faction" : "Horde",
+"level" : 11,
+"required_level" : 3050,
+"items" : [
+{"name" : "Pattern: Kodo Hide Bag", "link" : "https://classicdb.ch/?item=5083"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Thunder Bluff"}]
+},
+"770" : {"name" : "The Demon Scarred Cloak",
+"link" : "https://classicdb.ch/?quest=770",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 4854,
+"items" : [
+{"name" : "Skorn's Hammer", "link" : "https://classicdb.ch/?item=4971"},
+{"name" : "Skorn's Rifle", "link" : "https://classicdb.ch/?item=3079"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"771" : {"name" : "Rite of Vision",
+"link" : "https://classicdb.ch/?quest=771",
+"faction" : "Both",
+"level" : 3054,
+"required_level" : 3054,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"772" : {"name" : "Rite of Vision",
+"link" : "https://classicdb.ch/?quest=772",
+"faction" : "Both",
+"level" : 3054,
+"required_level" : 3054,
+"items" : [
+{"name" : "Rainwalker Boots", "link" : "https://classicdb.ch/?item=4906"},
+{"name" : "Sun-beaten Cloak", "link" : "https://classicdb.ch/?item=4958"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"773" : {"name" : "Rite of Wisdom",
+"link" : "https://classicdb.ch/?quest=773",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 2984,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"775" : {"name" : "Journey into Thunder Bluff",
+"link" : "https://classicdb.ch/?quest=775",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 2994,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Thunder Bluff"}]
+},
+"776" : {"name" : "Rites of the Earthmother",
+"link" : "https://classicdb.ch/?quest=776",
+"faction" : "Horde",
+"level" : 14,
+"required_level" : 3057,
+"items" : [
+{"name" : "Kodo Hunter's Leggings", "link" : "https://classicdb.ch/?item=4909"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"777" : {"name" : "This Is Going to Be Hard",
+"link" : "https://classicdb.ch/?quest=777",
+"faction" : "Both",
+"level" : 42,
+"required_level" : 39,
+"items" : [],
+"reputations" : []
+},
+"778" : {"name" : "This Is Going to Be Hard",
+"link" : "https://classicdb.ch/?quest=778",
+"faction" : "Both",
+"level" : 45,
+"required_level" : 38,
+"items" : [
+{"name" : "Nifty Stopwatch", "link" : "https://classicdb.ch/?item=2820"}],
+"reputations" : []
+},
+"779" : {"name" : "Seal of the Earth",
+"link" : "https://classicdb.ch/?quest=779",
+"faction" : "Alliance",
+"level" : 50,
+"required_level" : 49,
+"items" : [],
+"reputations" : []
+},
+"780" : {"name" : "The Battleboars",
+"link" : "https://classicdb.ch/?quest=780",
+"faction" : "Both",
+"level" : 2980,
+"required_level" : 2980,
+"items" : [
+{"name" : "Nomadic Vest", "link" : "https://classicdb.ch/?item=6059"},
+{"name" : "Tough Hunk of Bread", "link" : "https://classicdb.ch/?item=4540"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"781" : {"name" : "Attack on Camp Narache",
+"link" : "https://classicdb.ch/?quest=781",
+"faction" : "Tauren",
+"level" : 4851,
+"required_level" : 4851,
+"items" : [
+{"name" : "Thick Bark Buckler", "link" : "https://classicdb.ch/?item=4911"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"782" : {"name" : "Broken Alliances",
+"link" : "https://classicdb.ch/?quest=782",
+"faction" : "Horde",
+"level" : 43,
+"required_level" : 40,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"783" : {"name" : "A Threat Within",
+"link" : "https://classicdb.ch/?quest=783",
+"faction" : "Alliance",
+"level" : 823,
+"required_level" : 823,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Stormwind"}]
+},
+"784" : {"name" : "Vanquish the Betrayers",
+"link" : "https://classicdb.ch/?quest=784",
+"faction" : "Both",
+"level" : 3139,
+"required_level" : 3139,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"786" : {"name" : "Thwarting Kolkar Aggression",
+"link" : "https://classicdb.ch/?quest=786",
+"faction" : "Both",
+"level" : 3140,
+"required_level" : 3140,
+"items" : [
+{"name" : "Seasoned Fighter's Cloak", "link" : "https://classicdb.ch/?item=4933"},
+{"name" : "Heavy Cord Bracers", "link" : "https://classicdb.ch/?item=6062"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"787" : {"name" : "The New Horde",
+"link" : "https://classicdb.ch/?quest=787",
+"faction" : "Both",
+"level" : 3144,
+"required_level" : 3144,
+"items" : [],
+"reputations" : []
+},
+"788" : {"name" : "Cutting Teeth",
+"link" : "https://classicdb.ch/?quest=788",
+"faction" : "Both",
+"level" : 3143,
+"required_level" : 3143,
+"items" : [
+{"name" : "Soft Wool Boots", "link" : "https://classicdb.ch/?item=4915"},
+{"name" : "Battleworn Leather Gloves", "link" : "https://classicdb.ch/?item=4914"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"789" : {"name" : "Sting of the Scorpid",
+"link" : "https://classicdb.ch/?quest=789",
+"faction" : "Both",
+"level" : 3143,
+"required_level" : 3143,
+"items" : [
+{"name" : "Soft Wool Belt", "link" : "https://classicdb.ch/?item=4919"},
+{"name" : "Battleworn Cape", "link" : "https://classicdb.ch/?item=4920"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"790" : {"name" : "Sarkoth",
+"link" : "https://classicdb.ch/?quest=790",
+"faction" : "Both",
+"level" : 3287,
+"required_level" : 3287,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"791" : {"name" : "Carry Your Weight",
+"link" : "https://classicdb.ch/?quest=791",
+"faction" : "Both",
+"level" : 3147,
+"required_level" : 3147,
+"items" : [
+{"name" : "Handmade Leather Bag", "link" : "https://classicdb.ch/?item=11845"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"792" : {"name" : "Vile Familiars",
+"link" : "https://classicdb.ch/?quest=792",
+"faction" : "Orc, Troll",
+"level" : 3145,
+"required_level" : 3145,
+"items" : [
+{"name" : "Primitive Club", "link" : "https://classicdb.ch/?item=4924"},
+{"name" : "Primitive Hand Blade", "link" : "https://classicdb.ch/?item=4925"},
+{"name" : "Primitive Hatchet", "link" : "https://classicdb.ch/?item=4923"},
+{"name" : "Primitive Walking Stick", "link" : "https://classicdb.ch/?item=5778"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darkspear Trolls"},
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"793" : {"name" : "Broken Alliances",
+"link" : "https://classicdb.ch/?quest=793",
+"faction" : "Horde",
+"level" : 50,
+"required_level" : 40,
+"items" : [
+{"name" : "Blazewind Breastplate", "link" : "https://classicdb.ch/?item=11193"},
+{"name" : "Prismscale Hauberk", "link" : "https://classicdb.ch/?item=11194"},
+{"name" : "Warforged Chestplate", "link" : "https://classicdb.ch/?item=11195"},
+{"name" : "Mindburst Medallion", "link" : "https://classicdb.ch/?item=11196"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"794" : {"name" : "Burning Blade Medallion",
+"link" : "https://classicdb.ch/?quest=794",
+"faction" : "Orc, Troll",
+"level" : 3145,
+"required_level" : 3145,
+"items" : [
+{"name" : "Dust-covered Leggings", "link" : "https://classicdb.ch/?item=4921"},
+{"name" : "Jagged Chain Vest", "link" : "https://classicdb.ch/?item=4922"},
+{"name" : "Ripped Pants", "link" : "https://classicdb.ch/?item=6713"}],
+"reputations" : [
+{"amount" : "500", "faction" : "Darkspear Trolls"},
+{"amount" : "500", "faction" : "Orgrimmar"}]
+},
+"795" : {"name" : "Seal of the Earth",
+"link" : "https://classicdb.ch/?quest=795",
+"faction" : "Horde",
+"level" : 55,
+"required_level" : 50,
+"items" : [],
+"reputations" : []
+},
+"804" : {"name" : "Sarkoth",
+"link" : "https://classicdb.ch/?quest=804",
+"faction" : "Both",
+"level" : 3287,
+"required_level" : 3287,
+"items" : [
+{"name" : "Soft Wool Vest", "link" : "https://classicdb.ch/?item=4916"},
+{"name" : "Battleworn Chain Leggings", "link" : "https://classicdb.ch/?item=4917"}],
+"reputations" : [
+{"amount" : "25", "faction" : "Darkspear Trolls"},
+{"amount" : "25", "faction" : "Orgrimmar"}]
+},
+"805" : {"name" : "Report to Sen&#039;jin Village",
+"link" : "https://classicdb.ch/?quest=805",
+"faction" : "Orc, Troll",
+"level" : 3145,
+"required_level" : 3145,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darkspear Trolls"},
+{"amount" : "75", "faction" : "Orgrimmar"}]
+},
+"806" : {"name" : "Dark Storms",
+"link" : "https://classicdb.ch/?quest=806",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3142,
+"items" : [
+{"name" : "Tiger Hide Boots", "link" : "https://classicdb.ch/?item=4942"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"808" : {"name" : "Minshina&#039;s Skull",
+"link" : "https://classicdb.ch/?quest=808",
+"faction" : "Both",
+"level" : 3188,
+"required_level" : 3188,
+"items" : [
+{"name" : "Faintly Glowing Skull", "link" : "https://classicdb.ch/?item=4945"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"809" : {"name" : "Ak&#039;Zeloth",
+"link" : "https://classicdb.ch/?quest=809",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3216,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darkspear Trolls"},
+{"amount" : "75", "faction" : "Orgrimmar"}]
+},
+"812" : {"name" : "Need for a Cure",
+"link" : "https://classicdb.ch/?quest=812",
+"faction" : "Both",
+"level" : 45,
+"required_level" : 45,
+"items" : [
+{"name" : "Charging Buckler", "link" : "https://classicdb.ch/?item=4937"},
+{"name" : "Light Scorpid Armor", "link" : "https://classicdb.ch/?item=4929"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darkspear Trolls"},
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"813" : {"name" : "Finding the Antidote",
+"link" : "https://classicdb.ch/?quest=813",
+"faction" : "Both",
+"level" : 3189,
+"required_level" : 3189,
+"items" : [
+{"name" : "Venomtail Antidote", "link" : "https://classicdb.ch/?item=4904"}],
+"reputations" : []
+},
+"815" : {"name" : "Break a Few Eggs",
+"link" : "https://classicdb.ch/?quest=815",
+"faction" : "Both",
+"level" : 3191,
+"required_level" : 3191,
+"items" : [
+{"name" : "Tough Hunk of Bread", "link" : "https://classicdb.ch/?item=4540"},
+{"name" : "Tough Jerky", "link" : "https://classicdb.ch/?item=117"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"816" : {"name" : "Lost But Not Forgotten",
+"link" : "https://classicdb.ch/?quest=816",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3193,
+"items" : [
+{"name" : "Handsewn Cloak", "link" : "https://classicdb.ch/?item=4944"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"817" : {"name" : "Practical Prey",
+"link" : "https://classicdb.ch/?quest=817",
+"faction" : "Both",
+"level" : 3194,
+"required_level" : 3194,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"818" : {"name" : "A Solvent Spirit",
+"link" : "https://classicdb.ch/?quest=818",
+"faction" : "Both",
+"level" : 3304,
+"required_level" : 3304,
+"items" : [
+{"name" : "Really Sticky Glue", "link" : "https://classicdb.ch/?item=4941"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"819" : {"name" : "Chen&#039;s Empty Keg",
+"link" : "https://classicdb.ch/?quest=819",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"821" : {"name" : "Chen&#039;s Empty Keg",
+"link" : "https://classicdb.ch/?quest=821",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 11,
+"items" : [
+{"name" : "Stormstout", "link" : "https://classicdb.ch/?item=4952"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"822" : {"name" : "Chen&#039;s Empty Keg",
+"link" : "https://classicdb.ch/?quest=822",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 15,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Orgrimmar"}]
+},
+"823" : {"name" : "Report to Orgnil",
+"link" : "https://classicdb.ch/?quest=823",
+"faction" : "Both",
+"level" : 3188,
+"required_level" : 3188,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darkspear Trolls"},
+{"amount" : "75", "faction" : "Orgrimmar"}]
+},
+"824" : {"name" : "Je&#039;neu of the Earthen Ring",
+"link" : "https://classicdb.ch/?quest=824",
+"faction" : "Horde",
+"level" : 27,
+"required_level" : 23,
+"items" : [
+{"name" : "Deftkin Belt", "link" : "https://classicdb.ch/?item=16659"},
+{"name" : "Driftmire Shield", "link" : "https://classicdb.ch/?item=16660"},
+{"name" : "Soft Willow Cape", "link" : "https://classicdb.ch/?item=16661"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"825" : {"name" : "From The Wreckage....",
+"link" : "https://classicdb.ch/?quest=825",
+"faction" : "Both",
+"level" : 3139,
+"required_level" : 3139,
+"items" : [
+{"name" : "Dirt-trodden Boots", "link" : "https://classicdb.ch/?item=4936"},
+{"name" : "Sandrunner Wristguards", "link" : "https://classicdb.ch/?item=4928"},
+{"name" : "Wide Metal Girdle", "link" : "https://classicdb.ch/?item=4935"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"826" : {"name" : "Zalazane",
+"link" : "https://classicdb.ch/?quest=826",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 3188,
+"items" : [
+{"name" : "Lightweight Boots", "link" : "https://classicdb.ch/?item=4946"},
+{"name" : "Veiled Grips", "link" : "https://classicdb.ch/?item=4940"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"827" : {"name" : "Skull Rock",
+"link" : "https://classicdb.ch/?quest=827",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3208,
+"items" : [
+{"name" : "Jagged Dagger", "link" : "https://classicdb.ch/?item=4947"},
+{"name" : "Steady Bastard Sword", "link" : "https://classicdb.ch/?item=4939"},
+{"name" : "Stinging Mace", "link" : "https://classicdb.ch/?item=4948"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"828" : {"name" : "Margoz",
+"link" : "https://classicdb.ch/?quest=828",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3142,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Darkspear Trolls"},
+{"amount" : "10", "faction" : "Orgrimmar"}]
+},
+"829" : {"name" : "Neeru Fireblade",
+"link" : "https://classicdb.ch/?quest=829",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3208,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darkspear Trolls"},
+{"amount" : "75", "faction" : "Orgrimmar"}]
+},
+"830" : {"name" : "The Admiral&#039;s Orders",
+"link" : "https://classicdb.ch/?quest=830",
+"faction" : "Both",
+"level" : 4881,
+"required_level" : 4881,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"831" : {"name" : "The Admiral&#039;s Orders",
+"link" : "https://classicdb.ch/?quest=831",
+"faction" : "Both",
+"level" : 3139,
+"required_level" : 3139,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"832" : {"name" : "Burning Shadows",
+"link" : "https://classicdb.ch/?quest=832",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 4903,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darkspear Trolls"},
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"833" : {"name" : "A Sacred Burial",
+"link" : "https://classicdb.ch/?quest=833",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 3233,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"834" : {"name" : "Winds in the Desert",
+"link" : "https://classicdb.ch/?quest=834",
+"faction" : "Both",
+"level" : 3293,
+"required_level" : 3293,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"},
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"835" : {"name" : "Securing the Lines",
+"link" : "https://classicdb.ch/?quest=835",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3293,
+"items" : [
+{"name" : "Harpy Wing Clipper", "link" : "https://classicdb.ch/?item=4932"},
+{"name" : "Hickory Shortbow", "link" : "https://classicdb.ch/?item=4931"},
+{"name" : "Blemished Wooden Staff", "link" : "https://classicdb.ch/?item=4938"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"},
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"836" : {"name" : "Rescue OOX-09/HL!",
+"link" : "https://classicdb.ch/?quest=836",
+"faction" : "Both",
+"level" : 48,
+"required_level" : 43,
+"items" : [
+{"name" : "Gnomish Inventor Boots", "link" : "https://classicdb.ch/?item=9645"},
+{"name" : "Gnomish Water Sinking Device", "link" : "https://classicdb.ch/?item=9646"}],
+"reputations" : [
+{"amount" : "-350", "faction" : "Bloodsail Buccaneers"},
+{"amount" : "350", "faction" : "Booty Bay"}]
+},
+"837" : {"name" : "Encroachment",
+"link" : "https://classicdb.ch/?quest=837",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 3139,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darkspear Trolls"},
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"838" : {"name" : "Scholomance",
+"link" : "https://classicdb.ch/?quest=838",
+"faction" : "Horde",
+"level" : 55,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"840" : {"name" : "Conscript of the Horde",
+"link" : "https://classicdb.ch/?quest=840",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darkspear Trolls"},
+{"amount" : "75", "faction" : "Orgrimmar"}]
+},
+"841" : {"name" : "Another Power Source?",
+"link" : "https://classicdb.ch/?quest=841",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 41,
+"items" : [
+{"name" : "Model 4711-FTZ Power Source", "link" : "https://classicdb.ch/?item=8524"}],
+"reputations" : []
+},
+"842" : {"name" : "Crossroads Conscription",
+"link" : "https://classicdb.ch/?quest=842",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"},
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"843" : {"name" : "Gann&#039;s Reclamation",
+"link" : "https://classicdb.ch/?quest=843",
+"faction" : "Horde",
+"level" : 23,
+"required_level" : 17,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"844" : {"name" : "Plainstrider Menace",
+"link" : "https://classicdb.ch/?quest=844",
+"faction" : "Horde",
+"level" : 12,
+"required_level" : 3338,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"845" : {"name" : "The Zhevra",
+"link" : "https://classicdb.ch/?quest=845",
+"faction" : "Horde",
+"level" : 13,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"846" : {"name" : "Revenge of Gann",
+"link" : "https://classicdb.ch/?quest=846",
+"faction" : "Horde",
+"level" : 26,
+"required_level" : 19,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"847" : {"name" : "Guile of the Raptor",
+"link" : "https://classicdb.ch/?quest=847",
+"faction" : "Horde",
+"level" : 37,
+"required_level" : 29,
+"items" : [
+{"name" : "Call of the Raptor", "link" : "https://classicdb.ch/?item=4546"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"848" : {"name" : "Fungal Spores",
+"link" : "https://classicdb.ch/?quest=848",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"849" : {"name" : "Revenge of Gann",
+"link" : "https://classicdb.ch/?quest=849",
+"faction" : "Horde",
+"level" : 26,
+"required_level" : 19,
+"items" : [
+{"name" : "Totemic Clan Ring", "link" : "https://classicdb.ch/?item=5313"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"850" : {"name" : "Kolkar Leaders",
+"link" : "https://classicdb.ch/?quest=850",
+"faction" : "Horde",
+"level" : 16,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"851" : {"name" : "Verog the Dervish",
+"link" : "https://classicdb.ch/?quest=851",
+"faction" : "Horde",
+"level" : 18,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"852" : {"name" : "Hezrul Bloodmark",
+"link" : "https://classicdb.ch/?quest=852",
+"faction" : "Horde",
+"level" : 19,
+"required_level" : 14,
+"items" : [
+{"name" : "Bounty Hunter's Ring", "link" : "https://classicdb.ch/?item=5351"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"853" : {"name" : "Apothecary Zamah",
+"link" : "https://classicdb.ch/?quest=853",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 11,
+"items" : [
+{"name" : "Elixir of Minor Fortitude", "link" : "https://classicdb.ch/?item=2458"},
+{"name" : "Elixir of Minor Agility", "link" : "https://classicdb.ch/?item=2457"},
+{"name" : "Minor Rejuvenation Potion", "link" : "https://classicdb.ch/?item=2456"},
+{"name" : "Swiftness Potion", "link" : "https://classicdb.ch/?item=2459"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Undercity"}]
+},
+"854" : {"name" : "Journey to the Crossroads",
+"link" : "https://classicdb.ch/?quest=854",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3418,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Thunder Bluff"}]
+},
+"855" : {"name" : "Centaur Bracers",
+"link" : "https://classicdb.ch/?quest=855",
+"faction" : "Horde",
+"level" : 14,
+"required_level" : 3389,
+"items" : [
+{"name" : "Orcish Battle Bow", "link" : "https://classicdb.ch/?item=5346"},
+{"name" : "Pointed Axe", "link" : "https://classicdb.ch/?item=5344"},
+{"name" : "Stonewood Hammer", "link" : "https://classicdb.ch/?item=5345"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"857" : {"name" : "The Tear of the Moons",
+"link" : "https://classicdb.ch/?quest=857",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 22,
+"items" : [],
+"reputations" : []
+},
+"858" : {"name" : "Ignition",
+"link" : "https://classicdb.ch/?quest=858",
+"faction" : "Horde",
+"level" : 18,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"860" : {"name" : "Sergra Darkthorn",
+"link" : "https://classicdb.ch/?quest=860",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Thunder Bluff"}]
+},
+"861" : {"name" : "The Hunter&#039;s Way",
+"link" : "https://classicdb.ch/?quest=861",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"862" : {"name" : "Dig Rat Stew",
+"link" : "https://classicdb.ch/?quest=862",
+"faction" : "Horde",
+"level" : 23,
+"required_level" : 15,
+"items" : [
+{"name" : "Recipe: Dig Rat Stew", "link" : "https://classicdb.ch/?item=5487"},
+{"name" : "Dig Rat Stew", "link" : "https://classicdb.ch/?item=5478"},
+{"name" : "Apothecary Gloves", "link" : "https://classicdb.ch/?item=10919"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"863" : {"name" : "The Escape",
+"link" : "https://classicdb.ch/?quest=863",
+"faction" : "Horde",
+"level" : 18,
+"required_level" : 14,
+"items" : [
+{"name" : "Flaring Baton", "link" : "https://classicdb.ch/?item=5326"},
+{"name" : "Greasy Tinker's Pants", "link" : "https://classicdb.ch/?item=5327"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Ratchet"}]
+},
+"864" : {"name" : "Return to Apothecary Zinge",
+"link" : "https://classicdb.ch/?quest=864",
+"faction" : "Horde",
+"level" : 46,
+"required_level" : 41,
+"items" : [
+{"name" : "Skilled Handling Gloves", "link" : "https://classicdb.ch/?item=9634"},
+{"name" : "Master Apothecary Cape", "link" : "https://classicdb.ch/?item=9635"},
+{"name" : "Loreskin Shoulders", "link" : "https://classicdb.ch/?item=11502"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"865" : {"name" : "Raptor Horns",
+"link" : "https://classicdb.ch/?quest=865",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 13,
+"items" : [
+{"name" : "Raptor Punch", "link" : "https://classicdb.ch/?item=5342"},
+{"name" : "Barkeeper's Cloak", "link" : "https://classicdb.ch/?item=5343"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"866" : {"name" : "Root Samples",
+"link" : "https://classicdb.ch/?quest=866",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 11,
+"items" : [
+{"name" : "Spore-covered Tunic", "link" : "https://classicdb.ch/?item=5341"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"867" : {"name" : "Harpy Raiders",
+"link" : "https://classicdb.ch/?quest=867",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 12,
+"items" : [],
+"reputations" : []
+},
+"868" : {"name" : "Egg Hunt",
+"link" : "https://classicdb.ch/?quest=868",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 17,
+"items" : [
+{"name" : "Harlequin Robes", "link" : "https://classicdb.ch/?item=6503"},
+{"name" : "Violet Scale Armor", "link" : "https://classicdb.ch/?item=6502"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darkspear Trolls"}]
+},
+"869" : {"name" : "Raptor Thieves",
+"link" : "https://classicdb.ch/?quest=869",
+"faction" : "Horde",
+"level" : 13,
+"required_level" : 3464,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"870" : {"name" : "The Forgotten Pools",
+"link" : "https://classicdb.ch/?quest=870",
+"faction" : "Horde",
+"level" : 13,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"871" : {"name" : "Disrupt the Attacks",
+"link" : "https://classicdb.ch/?quest=871",
+"faction" : "Horde",
+"level" : 12,
+"required_level" : 3429,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"872" : {"name" : "The Disruption Ends",
+"link" : "https://classicdb.ch/?quest=872",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 3429,
+"items" : [
+{"name" : "Binding Girdle", "link" : "https://classicdb.ch/?item=5275"},
+{"name" : "Cinched Belt", "link" : "https://classicdb.ch/?item=5328"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"873" : {"name" : "Isha Awak",
+"link" : "https://classicdb.ch/?quest=873",
+"faction" : "Horde",
+"level" : 27,
+"required_level" : 17,
+"items" : [
+{"name" : "Branding Rod", "link" : "https://classicdb.ch/?item=5356"},
+{"name" : "Ward of the Vale", "link" : "https://classicdb.ch/?item=5357"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"874" : {"name" : "Mahren Skyseer",
+"link" : "https://classicdb.ch/?quest=874",
+"faction" : "Horde",
+"level" : 27,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Thunder Bluff"}]
+},
+"875" : {"name" : "Harpy Lieutenants",
+"link" : "https://classicdb.ch/?quest=875",
+"faction" : "Horde",
+"level" : 16,
+"required_level" : 13,
+"items" : [],
+"reputations" : []
+},
+"876" : {"name" : "Serena Bloodfeather",
+"link" : "https://classicdb.ch/?quest=876",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 14,
+"items" : [
+{"name" : "Elegant Shortsword", "link" : "https://classicdb.ch/?item=5321"},
+{"name" : "Harpy Skinner", "link" : "https://classicdb.ch/?item=5279"},
+{"name" : "Zhovur Axe", "link" : "https://classicdb.ch/?item=5318"}],
+"reputations" : []
+},
+"877" : {"name" : "The Stagnant Oasis",
+"link" : "https://classicdb.ch/?quest=877",
+"faction" : "Horde",
+"level" : 16,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Thunder Bluff"}]
+},
+"878" : {"name" : "Tribes at War",
+"link" : "https://classicdb.ch/?quest=878",
+"faction" : "Horde",
+"level" : 21,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"879" : {"name" : "Betrayal from Within",
+"link" : "https://classicdb.ch/?quest=879",
+"faction" : "Horde",
+"level" : 25,
+"required_level" : 17,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Orgrimmar"}]
+},
+"880" : {"name" : "Altered Beings",
+"link" : "https://classicdb.ch/?quest=880",
+"faction" : "Horde",
+"level" : 16,
+"required_level" : 11,
+"items" : [],
+"reputations" : []
+},
+"881" : {"name" : "Echeyakee",
+"link" : "https://classicdb.ch/?quest=881",
+"faction" : "Horde",
+"level" : 16,
+"required_level" : 12,
+"items" : [
+{"name" : "Echeyakee's Grace", "link" : "https://classicdb.ch/?spell=5320"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"882" : {"name" : "Ishamuhale",
+"link" : "https://classicdb.ch/?quest=882",
+"faction" : "Horde",
+"level" : 19,
+"required_level" : 13,
+"items" : [
+{"name" : "Ishamuhale's Rage", "link" : "https://classicdb.ch/?spell=5321"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"883" : {"name" : "Lakota&#039;mani",
+"link" : "https://classicdb.ch/?quest=883",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 17,
+"items" : [
+{"name" : "Lakota'mani's Thunder", "link" : "https://classicdb.ch/?spell=5322"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"884" : {"name" : "Owatanka",
+"link" : "https://classicdb.ch/?quest=884",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 17,
+"items" : [
+{"name" : "Speed of Owatanka", "link" : "https://classicdb.ch/?spell=5323"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"885" : {"name" : "Washte Pawne",
+"link" : "https://classicdb.ch/?quest=885",
+"faction" : "Horde",
+"level" : 25,
+"required_level" : 18,
+"items" : [
+{"name" : "Washte Pawne's Resolve", "link" : "https://classicdb.ch/?spell=5324"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Thunder Bluff"}]
+},
+"886" : {"name" : "The Barrens Oases",
+"link" : "https://classicdb.ch/?quest=886",
+"faction" : "Horde",
+"level" : 10,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Thunder Bluff"}]
+},
+"887" : {"name" : "Southsea Freebooters",
+"link" : "https://classicdb.ch/?quest=887",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 3391,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ratchet"}]
+},
+"888" : {"name" : "Stolen Booty",
+"link" : "https://classicdb.ch/?quest=888",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 12,
+"items" : [
+{"name" : "Wayfaring Gloves", "link" : "https://classicdb.ch/?item=5337"},
+{"name" : "Padded Lamellar Boots", "link" : "https://classicdb.ch/?item=5320"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"889" : {"name" : "Spirit of the Wind",
+"link" : "https://classicdb.ch/?quest=889",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 16,
+"items" : [
+{"name" : "Spirit of the Wind", "link" : "https://classicdb.ch/?spell=16618"}],
+"reputations" : []
+},
+"890" : {"name" : "The Missing Shipment",
+"link" : "https://classicdb.ch/?quest=890",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Ratchet"}]
+},
+"891" : {"name" : "The Guns of Northwatch",
+"link" : "https://classicdb.ch/?quest=891",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 13,
+"items" : [
+{"name" : "Privateer Musket", "link" : "https://classicdb.ch/?item=5309"},
+{"name" : "Sea Dog Britches", "link" : "https://classicdb.ch/?item=5310"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"},
+{"amount" : "75", "faction" : "Darkspear Trolls"},
+{"amount" : "75", "faction" : "Orgrimmar"},
+{"amount" : "75", "faction" : "Thunder Bluff"}]
+},
+"892" : {"name" : "The Missing Shipment",
+"link" : "https://classicdb.ch/?quest=892",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Ratchet"}]
+},
+"893" : {"name" : "Weapons of Choice",
+"link" : "https://classicdb.ch/?quest=893",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 17,
+"items" : [
+{"name" : "Demolition Hammer", "link" : "https://classicdb.ch/?item=5322"},
+{"name" : "Everglow Lantern", "link" : "https://classicdb.ch/?item=5323"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"894" : {"name" : "Samophlange",
+"link" : "https://classicdb.ch/?quest=894",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ratchet"}]
+},
+"895" : {"name" : "WANTED: Baron Longshore",
+"link" : "https://classicdb.ch/?quest=895",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"896" : {"name" : "Miner&#039;s Fortune",
+"link" : "https://classicdb.ch/?quest=896",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 13,
+"items" : [
+{"name" : "A Sack of Coins", "link" : "https://classicdb.ch/?item=5335"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Ratchet"}]
+},
+"897" : {"name" : "The Harvester",
+"link" : "https://classicdb.ch/?quest=897",
+"faction" : "Horde",
+"level" : 24,
+"required_level" : 21,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"898" : {"name" : "Free From the Hold",
+"link" : "https://classicdb.ch/?quest=898",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Ratchet"}]
+},
+"899" : {"name" : "Consumed by Hatred",
+"link" : "https://classicdb.ch/?quest=899",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 14,
+"items" : [
+{"name" : "Boar Hunter's Cape", "link" : "https://classicdb.ch/?item=5314"},
+{"name" : "Grassland Sash", "link" : "https://classicdb.ch/?item=6477"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"900" : {"name" : "Samophlange",
+"link" : "https://classicdb.ch/?quest=900",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Ratchet"}]
+},
+"901" : {"name" : "Samophlange",
+"link" : "https://classicdb.ch/?quest=901",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Ratchet"}]
+},
+"902" : {"name" : "Samophlange",
+"link" : "https://classicdb.ch/?quest=902",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 13,
+"items" : [
+{"name" : "Engineer's Hammer", "link" : "https://classicdb.ch/?item=5324"},
+{"name" : "Welding Shield", "link" : "https://classicdb.ch/?item=5325"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"903" : {"name" : "Prowlers of the Barrens",
+"link" : "https://classicdb.ch/?quest=903",
+"faction" : "Horde",
+"level" : 15,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"905" : {"name" : "The Angry Scytheclaws",
+"link" : "https://classicdb.ch/?quest=905",
+"faction" : "Horde",
+"level" : 17,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Orgrimmar"}]
+},
+"906" : {"name" : "Betrayal from Within",
+"link" : "https://classicdb.ch/?quest=906",
+"faction" : "Horde",
+"level" : 25,
+"required_level" : 17,
+"items" : [
+{"name" : "Barkshell Tunic", "link" : "https://classicdb.ch/?item=5316"},
+{"name" : "Dry Moss Tunic", "link" : "https://classicdb.ch/?item=5317"}],
+"reputations" : [
+{"amount" : "500", "faction" : "Orgrimmar"}]
+},
+"907" : {"name" : "Enraged Thunder Lizards",
+"link" : "https://classicdb.ch/?quest=907",
+"faction" : "Horde",
+"level" : 18,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"908" : {"name" : "Amongst the Ruins",
+"link" : "https://classicdb.ch/?quest=908",
+"faction" : "Horde",
+"level" : 27,
+"required_level" : 25,
+"items" : [],
+"reputations" : []
+},
+"909" : {"name" : "Baron Aquanis",
+"link" : "https://classicdb.ch/?quest=909",
+"faction" : "Horde",
+"level" : 30,
+"required_level" : 29,
+"items" : [
+{"name" : "Outlaw Sabre", "link" : "https://classicdb.ch/?item=16886"},
+{"name" : "Witch's Finger", "link" : "https://classicdb.ch/?item=16887"}],
+"reputations" : []
+},
+"910" : {"name" : "Down at the Docks",
+"link" : "https://classicdb.ch/?quest=910",
+"faction" : "Horde",
+"level" : 60,
+"required_level" : 60,
+"items" : [],
+"reputations" : []
+},
+"911" : {"name" : "Gateway to the Frontier",
+"link" : "https://classicdb.ch/?quest=911",
+"faction" : "Horde",
+"level" : 60,
+"required_level" : 60,
+"items" : [],
+"reputations" : []
+},
+"913" : {"name" : "Cry of the Thunderhawk",
+"link" : "https://classicdb.ch/?quest=913",
+"faction" : "Horde",
+"level" : 20,
+"required_level" : 14,
+"items" : [
+{"name" : "Cobalt Buckler", "link" : "https://classicdb.ch/?item=5302"},
+{"name" : "Wind Rider Staff", "link" : "https://classicdb.ch/?item=5306"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"914" : {"name" : "Leaders of the Fang",
+"link" : "https://classicdb.ch/?quest=914",
+"faction" : "Horde",
+"level" : 22,
+"required_level" : 14,
+"items" : [
+{"name" : "Crescent Staff", "link" : "https://classicdb.ch/?item=6505"},
+{"name" : "Wingblade", "link" : "https://classicdb.ch/?item=6504"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Thunder Bluff"}]
+},
+"915" : {"name" : "You Scream, I Scream...",
+"link" : "https://classicdb.ch/?quest=915",
+"faction" : "Both",
+"level" : 60,
+"required_level" : 54,
+"items" : [],
+"reputations" : []
+},
+"916" : {"name" : "Webwood Venom",
+"link" : "https://classicdb.ch/?quest=916",
+"faction" : "Both",
+"level" : 2082,
+"required_level" : 2082,
+"items" : [
+{"name" : "Thistlewood Maul", "link" : "https://classicdb.ch/?item=10544"},
+{"name" : "Thistlewood Dagger", "link" : "https://classicdb.ch/?item=5392"},
+{"name" : "Thistlewood Staff", "link" : "https://classicdb.ch/?item=5393"},
+{"name" : "Thistlewood Blade", "link" : "https://classicdb.ch/?item=5586"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"917" : {"name" : "Webwood Egg",
+"link" : "https://classicdb.ch/?quest=917",
+"faction" : "Both",
+"level" : 2082,
+"required_level" : 2082,
+"items" : [
+{"name" : "Woodland Shield", "link" : "https://classicdb.ch/?item=5395"},
+{"name" : "Woodland Tunic", "link" : "https://classicdb.ch/?item=4907"},
+{"name" : "Woodland Robes", "link" : "https://classicdb.ch/?item=11189"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"918" : {"name" : "Timberling Seeds",
+"link" : "https://classicdb.ch/?quest=918",
+"faction" : "Both",
+"level" : 2080,
+"required_level" : 2080,
+"items" : [
+{"name" : "Forest Mushroom Cap", "link" : "https://classicdb.ch/?item=4604"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"919" : {"name" : "Timberling Sprouts",
+"link" : "https://classicdb.ch/?quest=919",
+"faction" : "Both",
+"level" : 2080,
+"required_level" : 2080,
+"items" : [
+{"name" : "Gardening Gloves", "link" : "https://classicdb.ch/?item=5606"},
+{"name" : "Graystone Bracers", "link" : "https://classicdb.ch/?item=6061"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"920" : {"name" : "Tenaron&#039;s Summons",
+"link" : "https://classicdb.ch/?quest=920",
+"faction" : "Both",
+"level" : 2082,
+"required_level" : 2082,
+"items" : [],
+"reputations" : [
+{"amount" : "10", "faction" : "Darnassus"}]
+},
+"921" : {"name" : "Crown of the Earth",
+"link" : "https://classicdb.ch/?quest=921",
+"faction" : "Both",
+"level" : 3514,
+"required_level" : 3514,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"922" : {"name" : "Rellian Greenspyre",
+"link" : "https://classicdb.ch/?quest=922",
+"faction" : "Both",
+"level" : 2080,
+"required_level" : 2080,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"923" : {"name" : "Tumors",
+"link" : "https://classicdb.ch/?quest=923",
+"faction" : "Both",
+"level" : 3517,
+"required_level" : 3517,
+"items" : [
+{"name" : "Pruning Knife", "link" : "https://classicdb.ch/?item=5605"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"924" : {"name" : "The Demon Seed",
+"link" : "https://classicdb.ch/?quest=924",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 3521,
+"items" : [
+{"name" : "Banshee Armor", "link" : "https://classicdb.ch/?item=5420"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Orgrimmar"}]
+},
+"925" : {"name" : "Cairne&#039;s Hoofprint",
+"link" : "https://classicdb.ch/?quest=925",
+"faction" : "Horde",
+"level" : 60,
+"required_level" : 60,
+"items" : [],
+"reputations" : []
+},
+"926" : {"name" : "Flawed Power Stone",
+"link" : "https://classicdb.ch/?quest=926",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 14,
+"items" : [
+{"name" : "Flawed Power Stone", "link" : "https://classicdb.ch/?item=4986"}],
+"reputations" : []
+},
+"927" : {"name" : "The Moss-twined Heart",
+"link" : "https://classicdb.ch/?quest=927",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 5179,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"928" : {"name" : "Crown of the Earth",
+"link" : "https://classicdb.ch/?quest=928",
+"faction" : "Both",
+"level" : 3514,
+"required_level" : 3514,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"929" : {"name" : "Crown of the Earth",
+"link" : "https://classicdb.ch/?quest=929",
+"faction" : "Both",
+"level" : 3515,
+"required_level" : 3515,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"930" : {"name" : "The Glowing Fruit",
+"link" : "https://classicdb.ch/?quest=930",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 6751,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"931" : {"name" : "The Shimmering Frond",
+"link" : "https://classicdb.ch/?quest=931",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 6752,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"932" : {"name" : "Twisted Hatred",
+"link" : "https://classicdb.ch/?quest=932",
+"faction" : "Both",
+"level" : 3567,
+"required_level" : 3567,
+"items" : [
+{"name" : "Feral Bracers", "link" : "https://classicdb.ch/?item=5419"},
+{"name" : "Viny Wrappings", "link" : "https://classicdb.ch/?item=2571"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"933" : {"name" : "Crown of the Earth",
+"link" : "https://classicdb.ch/?quest=933",
+"faction" : "Both",
+"level" : 3515,
+"required_level" : 3515,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"934" : {"name" : "Crown of the Earth",
+"link" : "https://classicdb.ch/?quest=934",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3515,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"935" : {"name" : "Crown of the Earth",
+"link" : "https://classicdb.ch/?quest=935",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3515,
+"items" : [
+{"name" : "Ashwood Bow", "link" : "https://classicdb.ch/?item=5596"},
+{"name" : "Thicket Hammer", "link" : "https://classicdb.ch/?item=5595"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"936" : {"name" : "Assisting Arch Druid Runetotem",
+"link" : "https://classicdb.ch/?quest=936",
+"faction" : "Horde",
+"level" : 50,
+"required_level" : 47,
+"items" : [],
+"reputations" : []
+},
+"937" : {"name" : "The Enchanted Glade",
+"link" : "https://classicdb.ch/?quest=937",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3519,
+"items" : [
+{"name" : "Shackled Girdle", "link" : "https://classicdb.ch/?item=5592"},
+{"name" : "Rain-spotted Cape", "link" : "https://classicdb.ch/?item=5591"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"938" : {"name" : "Mist",
+"link" : "https://classicdb.ch/?quest=938",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3568,
+"items" : [
+{"name" : "Cord Bracers", "link" : "https://classicdb.ch/?item=5590"},
+{"name" : "Crag Buckler", "link" : "https://classicdb.ch/?item=5593"},
+{"name" : "Scout's Cloak", "link" : "https://classicdb.ch/?item=5618"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"939" : {"name" : "Flute of Xavaric",
+"link" : "https://classicdb.ch/?quest=939",
+"faction" : "Alliance",
+"level" : 54,
+"required_level" : 49,
+"items" : [],
+"reputations" : []
+},
+"940" : {"name" : "Teldrassil",
+"link" : "https://classicdb.ch/?quest=940",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3519,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"941" : {"name" : "Planting the Heart",
+"link" : "https://classicdb.ch/?quest=941",
+"faction" : "Alliance",
+"level" : 12,
+"required_level" : 2080,
+"items" : [
+{"name" : "Cleansed Timberling Heart", "link" : "https://classicdb.ch/?item=5218"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"942" : {"name" : "The Absent Minded Prospector",
+"link" : "https://classicdb.ch/?quest=942",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 16,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ironforge"}]
+},
+"943" : {"name" : "The Absent Minded Prospector",
+"link" : "https://classicdb.ch/?quest=943",
+"faction" : "Both",
+"level" : 24,
+"required_level" : 17,
+"items" : [
+{"name" : "Relic Blade", "link" : "https://classicdb.ch/?item=5627"},
+{"name" : "Skullchipper", "link" : "https://classicdb.ch/?item=5626"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Ironforge"}]
+},
+"944" : {"name" : "The Master&#039;s Glaive",
+"link" : "https://classicdb.ch/?quest=944",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"945" : {"name" : "Therylune&#039;s Escape",
+"link" : "https://classicdb.ch/?quest=945",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"947" : {"name" : "Cave Mushrooms",
+"link" : "https://classicdb.ch/?quest=947",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 12,
+"items" : [
+{"name" : "Gustweald Cloak", "link" : "https://classicdb.ch/?item=5610"},
+{"name" : "Red-speckled Mushroom", "link" : "https://classicdb.ch/?item=4605"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"948" : {"name" : "Onu",
+"link" : "https://classicdb.ch/?quest=948",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"949" : {"name" : "The Twilight Camp",
+"link" : "https://classicdb.ch/?quest=949",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"950" : {"name" : "Return to Onu",
+"link" : "https://classicdb.ch/?quest=950",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"951" : {"name" : "Mathystra Relics",
+"link" : "https://classicdb.ch/?quest=951",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 16,
+"items" : [
+{"name" : "Hardwood Cudgel", "link" : "https://classicdb.ch/?item=5757"},
+{"name" : "Woodsman Sword", "link" : "https://classicdb.ch/?item=5615"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"952" : {"name" : "Grove of the Ancients",
+"link" : "https://classicdb.ch/?quest=952",
+"faction" : "Both",
+"level" : 11,
+"required_level" : 3516,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"953" : {"name" : "The Fall of Ameth&#039;Aran",
+"link" : "https://classicdb.ch/?quest=953",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3639,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"954" : {"name" : "Bashal&#039;Aran",
+"link" : "https://classicdb.ch/?quest=954",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3649,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"955" : {"name" : "Bashal&#039;Aran",
+"link" : "https://classicdb.ch/?quest=955",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3650,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"956" : {"name" : "Bashal&#039;Aran",
+"link" : "https://classicdb.ch/?quest=956",
+"faction" : "Both",
+"level" : 13,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"957" : {"name" : "Bashal&#039;Aran",
+"link" : "https://classicdb.ch/?quest=957",
+"faction" : "Both",
+"level" : 13,
+"required_level" : 11,
+"items" : [
+{"name" : "Explorer's Vest", "link" : "https://classicdb.ch/?item=7229"},
+{"name" : "Vagabond Leggings", "link" : "https://classicdb.ch/?item=5617"},
+{"name" : "Elven Wand", "link" : "https://classicdb.ch/?item=5604"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"958" : {"name" : "Tools of the Highborne",
+"link" : "https://classicdb.ch/?quest=958",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 3649,
+"items" : [
+{"name" : "Ivy Cuffs", "link" : "https://classicdb.ch/?item=5612"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"959" : {"name" : "Trouble at the Docks",
+"link" : "https://classicdb.ch/?quest=959",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 14,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Ratchet"}]
+},
+"960" : {"name" : "Onu is meditating",
+"link" : "https://classicdb.ch/?quest=960",
+"faction" : "Both",
+"level" : 15,
+"required_level" : 15,
+"items" : [
+{"name" : "Phial of Scrying", "link" : "https://classicdb.ch/?item=5251"}],
+"reputations" : []
+},
+"961" : {"name" : "Onu is meditating",
+"link" : "https://classicdb.ch/?quest=961",
+"faction" : "Both",
+"level" : 3616,
+"required_level" : 3616,
+"items" : [
+{"name" : "Phial of Scrying", "link" : "https://classicdb.ch/?item=5251"}],
+"reputations" : []
+},
+"962" : {"name" : "Serpentbloom",
+"link" : "https://classicdb.ch/?quest=962",
+"faction" : "Horde",
+"level" : 18,
+"required_level" : 14,
+"items" : [
+{"name" : "Apothecary Gloves", "link" : "https://classicdb.ch/?item=10919"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Undercity"}]
+},
+"963" : {"name" : "For Love Eternal",
+"link" : "https://classicdb.ch/?quest=963",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 11,
+"items" : [
+{"name" : "Tear of Grief", "link" : "https://classicdb.ch/?item=5611"}],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"964" : {"name" : "Skeletal Fragments",
+"link" : "https://classicdb.ch/?quest=964",
+"faction" : "Horde",
+"level" : 57,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"965" : {"name" : "The Tower of Althalaxx",
+"link" : "https://classicdb.ch/?quest=965",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"966" : {"name" : "The Tower of Althalaxx",
+"link" : "https://classicdb.ch/?quest=966",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"967" : {"name" : "The Tower of Althalaxx",
+"link" : "https://classicdb.ch/?quest=967",
+"faction" : "Both",
+"level" : 18,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"968" : {"name" : "The Powers Below",
+"link" : "https://classicdb.ch/?quest=968",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 15,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"969" : {"name" : "Luck Be With You",
+"link" : "https://classicdb.ch/?quest=969",
+"faction" : "Horde",
+"level" : 60,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"970" : {"name" : "The Tower of Althalaxx",
+"link" : "https://classicdb.ch/?quest=970",
+"faction" : "Both",
+"level" : 21,
+"required_level" : 16,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"971" : {"name" : "Knowledge in the Deeps",
+"link" : "https://classicdb.ch/?quest=971",
+"faction" : "Alliance",
+"level" : 23,
+"required_level" : 10,
+"items" : [
+{"name" : "Sustaining Ring", "link" : "https://classicdb.ch/?item=6743"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Ironforge"}]
+},
+"972" : {"name" : "Water Sapta",
+"link" : "https://classicdb.ch/?quest=972",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 20,
+"items" : [
+{"name" : "Water Sapta", "link" : "https://classicdb.ch/?item=6637"}],
+"reputations" : []
+},
+"973" : {"name" : "The Tower of Althalaxx",
+"link" : "https://classicdb.ch/?quest=973",
+"faction" : "Both",
+"level" : 24,
+"required_level" : 16,
+"items" : [
+{"name" : "Clergy Ring", "link" : "https://classicdb.ch/?item=5622"},
+{"name" : "Staff of the Purifier", "link" : "https://classicdb.ch/?item=5613"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"974" : {"name" : "Finding the Source",
+"link" : "https://classicdb.ch/?quest=974",
+"faction" : "Both",
+"level" : 55,
+"required_level" : 51,
+"items" : [],
+"reputations" : []
+},
+"975" : {"name" : "Cache of Mau&#039;ari",
+"link" : "https://classicdb.ch/?quest=975",
+"faction" : "Horde",
+"level" : 60,
+"required_level" : 55,
+"items" : [
+{"name" : "Cache of Mau'ari", "link" : "https://classicdb.ch/?item=12384"}],
+"reputations" : []
+},
+"976" : {"name" : "Supplies to Auberdine",
+"link" : "https://classicdb.ch/?quest=976",
+"faction" : "Alliance",
+"level" : 24,
+"required_level" : 22,
+"items" : [
+{"name" : "Everglow Lantern", "link" : "https://classicdb.ch/?item=5323"},
+{"name" : "Chestplate of Kor", "link" : "https://classicdb.ch/?item=6721"}],
+"reputations" : [
+{"amount" : "500", "faction" : "Darnassus"}]
+},
+"977" : {"name" : "Are We There, Yeti?",
+"link" : "https://classicdb.ch/?quest=977",
+"faction" : "Both",
+"level" : 58,
+"required_level" : 52,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Everlook"}]
+},
+"978" : {"name" : "Moontouched Wildkin",
+"link" : "https://classicdb.ch/?quest=978",
+"faction" : "Alliance",
+"level" : 55,
+"required_level" : 52,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"979" : {"name" : "Find Ranshalla",
+"link" : "https://classicdb.ch/?quest=979",
+"faction" : "Alliance",
+"level" : 57,
+"required_level" : 52,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"980" : {"name" : "The New Springs",
+"link" : "https://classicdb.ch/?quest=980",
+"faction" : "Both",
+"level" : 55,
+"required_level" : 51,
+"items" : [],
+"reputations" : []
+},
+"981" : {"name" : "The Tower of Althalaxx",
+"link" : "https://classicdb.ch/?quest=981",
+"faction" : "Both",
+"level" : 31,
+"required_level" : 28,
+"items" : [
+{"name" : "Pious Legwraps", "link" : "https://classicdb.ch/?item=10043"},
+{"name" : "Seraph's Strike", "link" : "https://classicdb.ch/?item=5614"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"982" : {"name" : "Deep Ocean, Vast Sea",
+"link" : "https://classicdb.ch/?quest=982",
+"faction" : "Both",
+"level" : 17,
+"required_level" : 13,
+"items" : [
+{"name" : "Welldrip Gloves", "link" : "https://classicdb.ch/?item=15401"},
+{"name" : "Noosegrip Gauntlets", "link" : "https://classicdb.ch/?item=15402"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"983" : {"name" : "Buzzbox 827",
+"link" : "https://classicdb.ch/?quest=983",
+"faction" : "Both",
+"level" : 10,
+"required_level" : 3666,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Gnomeregan Exiles"}]
+},
+"984" : {"name" : "How Big a Threat?",
+"link" : "https://classicdb.ch/?quest=984",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"985" : {"name" : "How Big a Threat?",
+"link" : "https://classicdb.ch/?quest=985",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 11,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"986" : {"name" : "A Lost Master",
+"link" : "https://classicdb.ch/?quest=986",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 12,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"990" : {"name" : "Trek to Ashenvale",
+"link" : "https://classicdb.ch/?quest=990",
+"faction" : "Both",
+"level" : 19,
+"required_level" : 15,
+"items" : [],
+"reputations" : [
+{"amount" : "25", "faction" : "Darnassus"}]
+},
+"991" : {"name" : "Raene&#039;s Cleansing",
+"link" : "https://classicdb.ch/?quest=991",
+"faction" : "Alliance",
+"level" : 19,
+"required_level" : 18,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"992" : {"name" : "Gadgetzan Water Survey",
+"link" : "https://classicdb.ch/?quest=992",
+"faction" : "Both",
+"level" : 46,
+"required_level" : 38,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Gadgetzan"}]
+},
+"993" : {"name" : "A Lost Master",
+"link" : "https://classicdb.ch/?quest=993",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 16,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"994" : {"name" : "Escape Through Force",
+"link" : "https://classicdb.ch/?quest=994",
+"faction" : "Both",
+"level" : 22,
+"required_level" : 18,
+"items" : [
+{"name" : "Steadfast Cinch", "link" : "https://classicdb.ch/?item=5609"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"995" : {"name" : "Escape Through Stealth",
+"link" : "https://classicdb.ch/?quest=995",
+"faction" : "Both",
+"level" : 20,
+"required_level" : 17,
+"items" : [
+{"name" : "Scarab Trousers", "link" : "https://classicdb.ch/?item=6659"}],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"996" : {"name" : "Corrupted Windblossom",
+"link" : "https://classicdb.ch/?quest=996",
+"faction" : "Both",
+"level" : 55,
+"required_level" : 47,
+"items" : [],
+"reputations" : []
+},
+"997" : {"name" : "Denalan&#039;s Earth",
+"link" : "https://classicdb.ch/?quest=997",
+"faction" : "Both",
+"level" : 2083,
+"required_level" : 2083,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"998" : {"name" : "Corrupted Windblossom",
+"link" : "https://classicdb.ch/?quest=998",
+"faction" : "Both",
+"level" : 55,
+"required_level" : 50,
+"items" : [],
+"reputations" : []
+},
+"1000" : {"name" : "The New Frontier",
+"link" : "https://classicdb.ch/?quest=1000",
+"faction" : "Horde",
+"level" : 55,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"1001" : {"name" : "Buzzbox 411",
+"link" : "https://classicdb.ch/?quest=1001",
+"faction" : "Both",
+"level" : 12,
+"required_level" : 10,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Gnomeregan Exiles"}]
+},
+"1002" : {"name" : "Buzzbox 323",
+"link" : "https://classicdb.ch/?quest=1002",
+"faction" : "Both",
+"level" : 14,
+"required_level" : 13,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Gnomeregan Exiles"}]
+},
+"1003" : {"name" : "Buzzbox 525",
+"link" : "https://classicdb.ch/?quest=1003",
+"faction" : "Both",
+"level" : 16,
+"required_level" : 14,
+"items" : [
+{"name" : "Wizbang's Gunnysack", "link" : "https://classicdb.ch/?item=2082"},
+{"name" : "Wizbang's Special Brew", "link" : "https://classicdb.ch/?item=11846"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Gnomeregan Exiles"}]
+},
+"1004" : {"name" : "The New Frontier",
+"link" : "https://classicdb.ch/?quest=1004",
+"faction" : "Horde",
+"level" : 55,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"1007" : {"name" : "The Ancient Statuette",
+"link" : "https://classicdb.ch/?quest=1007",
+"faction" : "Alliance",
+"level" : 20,
+"required_level" : 17,
+"items" : [],
+"reputations" : [
+{"amount" : "150", "faction" : "Darnassus"}]
+},
+"1008" : {"name" : "The Zoram Strand",
+"link" : "https://classicdb.ch/?quest=1008",
+"faction" : "Alliance",
+"level" : 19,
+"required_level" : 16,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"1009" : {"name" : "Ruuzel",
+"link" : "https://classicdb.ch/?quest=1009",
+"faction" : "Alliance",
+"level" : 25,
+"required_level" : 20,
+"items" : [
+{"name" : "Robes of Antiquity", "link" : "https://classicdb.ch/?item=5812"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"1010" : {"name" : "Bathran&#039;s Hair",
+"link" : "https://classicdb.ch/?quest=1010",
+"faction" : "Alliance",
+"level" : 20,
+"required_level" : 18,
+"items" : [],
+"reputations" : [
+{"amount" : "75", "faction" : "Darnassus"}]
+},
+"1011" : {"name" : "Forsaken Diseases",
+"link" : "https://classicdb.ch/?quest=1011",
+"faction" : "Alliance",
+"level" : 29,
+"required_level" : 24,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"1012" : {"name" : "Insane Druids",
+"link" : "https://classicdb.ch/?quest=1012",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 25,
+"items" : [
+{"name" : "Emil's Brand", "link" : "https://classicdb.ch/?item=5813"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"1013" : {"name" : "The Book of Ur",
+"link" : "https://classicdb.ch/?quest=1013",
+"faction" : "Horde",
+"level" : 26,
+"required_level" : 16,
+"items" : [
+{"name" : "Grizzled Boots", "link" : "https://classicdb.ch/?item=6335"},
+{"name" : "Steel-clasped Bracers", "link" : "https://classicdb.ch/?item=4534"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Undercity"}]
+},
+"1014" : {"name" : "Arugal Must Die",
+"link" : "https://classicdb.ch/?quest=1014",
+"faction" : "Both",
+"level" : 27,
+"required_level" : 18,
+"items" : [
+{"name" : "Seal of Sylvanas", "link" : "https://classicdb.ch/?item=6414"}],
+"reputations" : [
+{"amount" : "500", "faction" : "Undercity"}]
+},
+"1015" : {"name" : "The New Frontier",
+"link" : "https://classicdb.ch/?quest=1015",
+"faction" : "Alliance",
+"level" : 55,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"1016" : {"name" : "Elemental Bracers",
+"link" : "https://classicdb.ch/?quest=1016",
+"faction" : "Alliance",
+"level" : 24,
+"required_level" : 20,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"1017" : {"name" : "Mage Summoner",
+"link" : "https://classicdb.ch/?quest=1017",
+"faction" : "Alliance",
+"level" : 25,
+"required_level" : 21,
+"items" : [
+{"name" : "Light of Elune", "link" : "https://classicdb.ch/?item=5816"}],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"1018" : {"name" : "The New Frontier",
+"link" : "https://classicdb.ch/?quest=1018",
+"faction" : "Horde",
+"level" : 55,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"1019" : {"name" : "The New Frontier",
+"link" : "https://classicdb.ch/?quest=1019",
+"faction" : "Alliance",
+"level" : 55,
+"required_level" : 55,
+"items" : [],
+"reputations" : []
+},
+"1020" : {"name" : "Orendil&#039;s Cure",
+"link" : "https://classicdb.ch/?quest=1020",
+"faction" : "Alliance",
+"level" : 20,
+"required_level" : 20,
+"items" : [],
+"reputations" : [
+{"amount" : "350", "faction" : "Darnassus"}]
+},
+"1021" : {"name" : "Vile Satyr! Dryads in Danger!",
+"link" : "https://classicdb.ch/?quest=1021",
+"faction" : "Alliance",
+"level" : 32,
+"required_level" : 26,
+"items" : [],
+"reputations" : [
+{"amount" : "250", "faction" : "Darnassus"}]
+},
+"102" : {"name" : "Patrolling Westfall",
+"link" : "https://classicdb.ch/?quest=102",
+"faction" : "Alliance",
+"level" : 14,
+"required_level" : 821,
+"items" : [
+{"name" : "Belt of the People's Militia", "link" : "https://classicdb.ch/?item=1154"},
+{"name" : "Bracers of the People's Militia", "link" : "https://classicdb.ch/?item=710"}],
+"reputations" : [
+{"amount" : "250", "faction" : "Stormwind"}]
+}}
